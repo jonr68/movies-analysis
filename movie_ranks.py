@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 
-def get_movies():
+def get_movie_rankings():
     """
     Scrapes the Rotten Tomatoes website for a list of new movies and their Tomatometer scores.
 
@@ -45,7 +45,7 @@ def get_movies():
         print(f"Error fetching the URL: {e}")
         return None
 
-get_movies()
+get_movie_rankings()
 def save_to_csv(data, filename="best_new_movies.csv"):
     """
     Saves a list of movie data to a CSV file.
@@ -71,6 +71,6 @@ def save_to_csv(data, filename="best_new_movies.csv"):
 
 
 if __name__ == "__main__":
-    movie_list = get_movies()
+    movie_list = get_movie_rankings()
     if movie_list:
         save_to_csv(movie_list)
