@@ -74,3 +74,70 @@ if __name__ == "__main__":
     movie_list = get_movie_rankings()
     if movie_list:
         save_to_csv(movie_list)
+def get_movie_box_office():
+    """
+    Scrapes the Box Office Mojo website for a list of movies and their gross box office earnings.
+
+    Returns:
+        A list of tuples, where each tuple contains (movie_title, gross_earnings).
+    """
+    url = 'https://www.boxofficemojo.com/year/2025/'
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+        movies = []
+        
+        # Find all rows in the table
+        rows = soup.select('tr')
+        
+        if rows:
+            # Skip the header row
+            for row in rows[1:]:
+                # Find all td elements in the row
+                cells = row.find_all('td')
+                if len(cells) >= 8:  # Make sure we have enough cells
+                    # Title is in column 2, Gross is in column 8 (Total Gross)
+                    title = cells[1].get_text(strip=True)
+                    gross = cells[7].get_text(strip=True)
+                    if title and gross:
+                        movies.append((title, gross))
+        
+        return movies
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching the URL: {e}")
+        return None
+def save_movies_to_csv(data, filename="box_office_2025.csv"):
+    """
+    Saves a list of movie data to a CSV file.
+
+    Args:
+        data: A list of tuples, where each tuple is (movie_title, gross_earnings).
+        filename: The name of the CSV file to save.
+    """
+    if not data:
+        print("No data to save. The list of movies is empty.")
+        return
+
+    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        
+        # Write the header row
+        writer.writerow(['Movie Title', 'Total Gross'])
+        
+        # Write the data rows
+        writer.writerows(data)
+
+    print(f"Successfully saved {len(data)} movies to {filename}")
+
+
+if __name__ == "__main__":
+    movie_list = get_movie_box_office()
+    if movie_list:
+        save_movies_to_csv(movie_list)
