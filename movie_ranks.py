@@ -81,7 +81,7 @@ def get_movie_box_office():
     Returns:
         A list of tuples, where each tuple contains (movie_title, gross_earnings).
     """
-    url = 'https://www.boxofficemojo.com/year/2025/'
+    url = 'https://www.boxofficemojo.com/year/2025/?grossesOption=totalGrosses'
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
@@ -104,9 +104,11 @@ def get_movie_box_office():
                 if len(cells) >= 8:  # Make sure we have enough cells
                     # Title is in column 2, Gross is in column 8 (Total Gross)
                     title = cells[1].get_text(strip=True)
-                    gross = cells[7].get_text(strip=True)
+                    gross = cells[5].get_text(strip=True)
+                    release_date = cells[10].get_text(strip=True)
+                    distributor = cells[12].get_text(strip=True)
                     if title and gross:
-                        movies.append((title, gross))
+                        movies.append((title, gross, release_date, distributor))
         
         return movies
 
@@ -129,7 +131,7 @@ def save_movies_to_csv(data, filename="box_office_2025.csv"):
         writer = csv.writer(csvfile)
         
         # Write the header row
-        writer.writerow(['Movie Title', 'Total Gross'])
+        writer.writerow(['Movie Title', 'Total Gross', 'Release Date', 'Distributor'])
         
         # Write the data rows
         writer.writerows(data)
