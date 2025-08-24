@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import sqlite3
 
 
 def get_movie_rankings():
@@ -45,35 +46,57 @@ def get_movie_rankings():
         print(f"Error fetching the URL: {e}")
         return None
 
-get_movie_rankings()
-def save_to_csv(data, filename="best_new_movies.csv"):
-    """
-    Saves a list of movie data to a CSV file.
-
-    Args:
-        data: A list of tuples, where each tuple is (movie_title, tomatometer_score).
-        filename: The name of the CSV file to save.
-    """
+def save_rankings_to_sqlite(data, db_file="movies.sql"):
     if not data:
-        print("No data to save. The list of movies is empty.")
+        print("No data to save. The list of rankings is empty.")
         return
 
-    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
+    conn = sqlite3.connect(db_file)
+    cursor = conn.cursor()
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS rankings (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT,
+            tomatometer_score TEXT
+        )
+    ''')
+    cursor.executemany('''
+        INSERT INTO rankings (title, tomatometer_score)
+        VALUES (?, ?)
+    ''', data)
+    conn.commit()
+    conn.close()
+    print(f"Successfully saved {len(data)} rankings to {db_file}")
 
-        # Write the header row
-        writer.writerow(['Movie Title', 'Tomatometer Score'])
+# def save_to_csv(data, filename="best_new_movies.csv"):
+#     """
+#     Saves a list of movie data to a CSV file.
+#
+#     Args:
+#         data: A list of tuples, where each tuple is (movie_title, tomatometer_score).
+#         filename: The name of the CSV file to save.
+#     """
+#     if not data:
+#         print("No data to save. The list of movies is empty.")
+#         return
+#
+#     with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
+#         writer = csv.writer(csvfile)
+#
+#         # Write the header row
+#         writer.writerow(['Movie Title', 'Tomatometer Score'])
+#
+#         # Write the data rows
+#         writer.writerows(data)
+#
+#     print(f"Successfully saved {len(data)} movies to {filename}")
 
-        # Write the data rows
-        writer.writerows(data)
 
-    print(f"Successfully saved {len(data)} movies to {filename}")
-
-
-if __name__ == "__main__":
-    movie_list = get_movie_rankings()
-    if movie_list:
-        save_to_csv(movie_list)
+# if __name__ == "__main__":
+#     movie_list = get_movie_rankings()
+#     if movie_list:
+#         save_rankings_to_sqlite(movie_list)
+#         # save_to_csv(movie_list)
 def get_movie_box_office():
     """
     Scrapes the Box Office Mojo website for a list of movies and their gross box office earnings.
@@ -115,31 +138,71 @@ def get_movie_box_office():
     except requests.exceptions.RequestException as e:
         print(f"Error fetching the URL: {e}")
         return None
-def save_movies_to_csv(data, filename="box_office_2025.csv"):
-    """
-    Saves a list of movie data to a CSV file.
 
-    Args:
-        data: A list of tuples, where each tuple is (movie_title, gross_earnings).
-        filename: The name of the CSV file to save.
-    """
+def save_box_office_to_sqlite(data, db_file="movies.sql"):
     if not data:
-        print("No data to save. The list of movies is empty.")
+        print("No data to save. The list of box office movies is empty.")
         return
 
-    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        
-        # Write the header row
-        writer.writerow(['Movie Title', 'Total Gross', 'Release Date', 'Distributor'])
-        
-        # Write the data rows
-        writer.writerows(data)
+    conn = sqlite3.connect(db_file)
+    cursor = conn.cursor()
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS box_office (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT,
+            total_gross TEXT,
+            release_date TEXT,
+            distributor TEXT
+        )
+    ''')
+    cursor.executemany('''
+        INSERT INTO box_office (title, total_gross, release_date, distributor)
+        VALUES (?, ?, ?, ?)
+    ''', data)
+    conn.commit()
+    conn.close()
+    print(f"Successfully saved {len(data)} box office movies to {db_file}")
 
-    print(f"Successfully saved {len(data)} movies to {filename}")
 
+# def save_movies_to_csv(data, filename="box_office_2025.csv"):
+#     """
+#     Saves a list of movie data to a CSV file.
+#
+#     Args:
+#         data: A list of tuples, where each tuple is (movie_title, gross_earnings).
+#         filename: The name of the CSV file to save.
+#     """
+#     if not data:
+#         print("No data to save. The list of movies is empty.")
+#         return
+#
+#     with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
+#         writer = csv.writer(csvfile)
+#
+#         # Write the header row
+#         writer.writerow(['Movie Title', 'Total Gross', 'Release Date', 'Distributor'])
+#
+#         # Write the data rows
+#         writer.writerows(data)
+#
+#     print(f"Successfully saved {len(data)} movies to {filename}")
+
+
+# if __name__ == "__main__":
+#     movie_list = get_movie_box_office()
+#     if movie_list:
+#         def save_box_office_to_sqlite(data, db_file="movies.sql"):
+#             if not data:
+#                 print("No data to save. The list of box office movies is empty.")
+#                 return
 
 if __name__ == "__main__":
-    movie_list = get_movie_box_office()
-    if movie_list:
-        save_movies_to_csv(movie_list)
+    rankings = get_movie_rankings()
+    if rankings:
+        save_rankings_to_sqlite(rankings)
+
+    box_office = get_movie_box_office()
+    if box_office:
+        save_box_office_to_sqlite(box_office)
+
+    # save_movies_to_csv(movie_list)
