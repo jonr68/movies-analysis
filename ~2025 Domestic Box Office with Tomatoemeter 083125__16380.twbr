@@ -1,0 +1,1009 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0514.2217                               -->
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <repository-location id='2025DomesticBoxOfficewithTomatoemeter083125' path='/workbooks' revision='1.0' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='Top Box Office %' datatype='real' default-format='p0%' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='0.5'>
+        <calculation class='tableau' formula='0.5' />
+        <range granularity='0.01' max='1.0' min='0.0' />
+      </column>
+    </datasource>
+    <datasource caption='Sheet1!Table1 (movie_analasys)' inline='true' name='federated.1m4zf0p0jpy8xp1eqac2j184765t' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='movie_analasys' name='excel-direct.18ltd3n1t6p4ar19bmo7k12ai7qi'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Projects/Python/movie_analasys.xlsm' interpretationMode='0' password='' server='' validate='no' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.18ltd3n1t6p4ar19bmo7k12ai7qi' name='Sheet1 Table1' table='[Sheet1$Table1]' type='table'>
+          <columns gridOrigin='A1:E161:no:A1:J161:0' header='yes' outcome='2'>
+            <column datatype='string' name='Movie Title' ordinal='0' />
+            <column datatype='integer' name='Total Gross' ordinal='1' />
+            <column datatype='date' name='Release Date' ordinal='2' />
+            <column datatype='string' name='Distributor' ordinal='3' />
+            <column datatype='real' name='Tomatometer Score' ordinal='4' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1 Table1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>1</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:E161:no:A1:J161:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Movie Title</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Movie Title]</local-name>
+            <parent-name>[Sheet1 Table1]</parent-name>
+            <remote-alias>Movie Title</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total Gross</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Total Gross]</local-name>
+            <parent-name>[Sheet1 Table1]</parent-name>
+            <remote-alias>Total Gross</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Release Date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Release Date]</local-name>
+            <parent-name>[Sheet1 Table1]</parent-name>
+            <remote-alias>Release Date</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <object-id>[Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Distributor</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Distributor]</local-name>
+            <parent-name>[Sheet1 Table1]</parent-name>
+            <remote-alias>Distributor</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tomatometer Score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Tomatometer Score]</local-name>
+            <parent-name>[Sheet1 Table1]</parent-name>
+            <remote-alias>Tomatometer Score</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <object-id>[Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Rank Percentage Of Total Box Office' datatype='boolean' default-format='p0%' name='[Calculation_1152640079701274624]' role='measure' type='nominal'>
+        <calculation class='tableau' formula='RANK_PERCENTILE([Percentage Of Total Box Office (copy)_1152640079992086533]) &gt;= ([Parameters].[Parameter 1])'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column caption='Rank' datatype='real' name='[Calculation_1152640079703683075]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='RANK_PERCENTILE([Calculation_426716114758807558])'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column caption='Total Box Office' datatype='integer' name='[Calculation_426716114758807558]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='TOTAL(SUM([Total Gross]))'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column datatype='string' name='[Distributor]' role='dimension' type='nominal' />
+      <column caption='Percentage Of Total Box Office (copy)' datatype='real' default-format='p0%' name='[Percentage Of Total Box Office (copy)_1152640079992086533]' role='measure' type='ordinal'>
+        <calculation class='tableau' formula='MAX([Total Gross])/[Calculation_426716114758807558]'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column datatype='real' default-format='p0%' name='[Tomatometer Score]' role='measure' type='quantitative' />
+      <column caption='Domestic Box Office' datatype='integer' name='[Total Gross]' role='measure' type='quantitative' />
+      <column caption='Sheet1 Table1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A]' role='measure' type='quantitative' />
+      <column-instance column='[Distributor]' derivation='None' name='[none:Distributor:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/jonat/AppData/Local/Temp/TableauTemp/#TableauTemp_08vk3ot0lq7ni31g8iem516a2zvv.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Movie Title</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Movie Title]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Movie Title</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Sheet1 Table1</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>160</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RUS_S2' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Total Gross</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Total Gross]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Total Gross</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Sheet1 Table1</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>160</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Release Date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[Release Date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Release Date</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Sheet1 Table1</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>47</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Distributor</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Distributor]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Distributor</remote-alias>
+              <ordinal>3</ordinal>
+              <family>Sheet1 Table1</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>53</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RUS_S2' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Tomatometer Score</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Tomatometer Score]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Tomatometer Score</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Sheet1 Table1</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>64</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Distributor:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;Blue Harbor Entertainment&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Quiver Distribution&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Wheelhouse Creative&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;20th Century Studios&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Ketchup Entertainment&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Universal Pictures International (UPI)&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Angel&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Mucho Mas Media&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Walt Disney Studios Motion Pictures&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Fathom Events&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Screen Gems&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Zeitgeist Films&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Briarcliff Entertainment&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Republic Pictures&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;XYZ Films&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Atlas Distribution Company&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Neon&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Warner Bros.&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;IMAX&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;The Avenue Entertainment&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;-&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Lionsgate&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Utopia&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Iconic Events Releasing&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Sony Pictures Releasing&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Bleecker Street Media&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Netflix&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Watermelon Pictures&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Focus Features&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Shudder&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;GKIDS&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Sideshow Releasing&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;IFC Films&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Sumerian Films&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Janus Films&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Universal Pictures&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;CMC Pictures&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;RLJ Entertainment&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Yash Raj Films&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Blue Fox Entertainment&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Paramount Pictures International&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Well Go USA Entertainment&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;A24&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Magnolia Pictures&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Vertical Entertainment&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Greenwich Entertainment&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Sony Pictures Classics&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Crunchyroll&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Roadside Attractions&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Yash Raj Films USA Inc.&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Amazon MGM Studios&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;MUBI&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Viva Pictures&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <field-sort-info field-sort-order-type='custom-order'>
+        <field-sort-custom-order field='Movie Title' />
+        <field-sort-custom-order field='Total Gross' />
+        <field-sort-custom-order field='Calculation_426716114715639809' />
+        <field-sort-custom-order field='Release Date' />
+        <field-sort-custom-order field='Distributor' />
+        <field-sort-custom-order field='Tomatometer Score' />
+        <field-sort-custom-order field='Geometry (generated)' />
+        <field-sort-custom-order field='Latitude (generated)' />
+        <field-sort-custom-order field='Longitude (generated)' />
+        <field-sort-custom-order field=':Measure Names' />
+        <field-sort-custom-order field='Multiple Values' />
+      </field-sort-info>
+      <datasource-dependencies datasource='Parameters'>
+        <column caption='Top Box Office %' datatype='real' default-format='p0%' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='0.5'>
+          <calculation class='tableau' formula='0.5' />
+          <range granularity='0.01' max='1.0' min='0.0' />
+        </column>
+      </datasource-dependencies>
+      <object-graph>
+        <objects>
+          <object caption='Sheet1 Table1' id='Sheet1$Table1_6A0122CF8B59491980D157F6D9CE960A'>
+            <properties context=''>
+              <relation connection='excel-direct.18ltd3n1t6p4ar19bmo7k12ai7qi' name='Sheet1 Table1' table='[Sheet1$Table1]' type='table'>
+                <columns gridOrigin='A1:E161:no:A1:J161:0' header='yes' outcome='2'>
+                  <column datatype='string' name='Movie Title' ordinal='0' />
+                  <column datatype='integer' name='Total Gross' ordinal='1' />
+                  <column datatype='date' name='Release Date' ordinal='2' />
+                  <column datatype='string' name='Distributor' ordinal='3' />
+                  <column datatype='real' name='Tomatometer Score' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Bar Graph Of Movie Titles'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Bar Graph of Movie Titles</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1!Table1 (movie_analasys)' name='federated.1m4zf0p0jpy8xp1eqac2j184765t' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Top Box Office %' datatype='real' default-format='p0%' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='0.5'>
+              <calculation class='tableau' formula='0.5' />
+              <range granularity='0.01' max='1.0' min='0.0' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1m4zf0p0jpy8xp1eqac2j184765t'>
+            <column caption='Rank Percentage Of Total Box Office' datatype='boolean' default-format='p0%' name='[Calculation_1152640079701274624]' role='measure' type='nominal'>
+              <calculation class='tableau' formula='RANK_PERCENTILE([Percentage Of Total Box Office (copy)_1152640079992086533]) &gt;= ([Parameters].[Parameter 1])'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Total Box Office' datatype='integer' name='[Calculation_426716114758807558]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='TOTAL(SUM([Total Gross]))'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column datatype='string' name='[Movie Title]' role='dimension' type='nominal' />
+            <column caption='Percentage Of Total Box Office (copy)' datatype='real' default-format='p0%' name='[Percentage Of Total Box Office (copy)_1152640079992086533]' role='measure' type='ordinal'>
+              <calculation class='tableau' formula='MAX([Total Gross])/[Calculation_426716114758807558]'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column datatype='real' default-format='p0%' name='[Tomatometer Score]' role='measure' type='quantitative' />
+            <column caption='Domestic Box Office' datatype='integer' name='[Total Gross]' role='measure' type='quantitative' />
+            <column-instance column='[Movie Title]' derivation='None' name='[none:Movie Title:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Tomatometer Score]' derivation='Sum' name='[sum:Tomatometer Score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Total Gross]' derivation='Sum' name='[sum:Total Gross:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1152640079701274624]' derivation='User' name='[usr:Calculation_1152640079701274624:ok]' pivot='key' type='nominal'>
+              <table-calc ordering-type='Rows' />
+              <table-calc field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[Calculation_426716114758807558]' ordering-type='Rows' />
+              <table-calc field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[Percentage Of Total Box Office (copy)_1152640079992086533]' ordering-type='Rows' />
+            </column-instance>
+          </datasource-dependencies>
+          <manual-sort column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Movie Title:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;A Minecraft Movie&quot;</bucket>
+              <bucket>&quot;Lilo &amp; Stitch&quot;</bucket>
+              <bucket>&quot;Superman&quot;</bucket>
+              <bucket>&quot;Jurassic World: Rebirth&quot;</bucket>
+              <bucket>&quot;Sinners&quot;</bucket>
+              <bucket>&quot;How to Train Your Dragon&quot;</bucket>
+              <bucket>&quot;The Fantastic Four: First Steps&quot;</bucket>
+              <bucket>&quot;Captain America: Brave New World&quot;</bucket>
+              <bucket>&quot;Mission: Impossible - The Final Reckoning&quot;</bucket>
+              <bucket>&quot;Thunderbolts*&quot;</bucket>
+              <bucket>&quot;F1: The Movie&quot;</bucket>
+              <bucket>&quot;Final Destination: Bloodlines&quot;</bucket>
+              <bucket>&quot;Weapons&quot;</bucket>
+              <bucket>&quot;Dog Man&quot;</bucket>
+              <bucket>&quot;Snow White&quot;</bucket>
+              <bucket>&quot;Freakier Friday&quot;</bucket>
+              <bucket>&quot;Elio&quot;</bucket>
+              <bucket>&quot;28 Years Later&quot;</bucket>
+              <bucket>&quot;The Bad Guys 2&quot;</bucket>
+              <bucket>&quot;The Accountant 2&quot;</bucket>
+              <bucket>&quot;The King of Kings&quot;</bucket>
+              <bucket>&quot;Ballerina&quot;</bucket>
+              <bucket>&quot;Karate Kid: Legends&quot;</bucket>
+              <bucket>&quot;One of Them Days&quot;</bucket>
+              <bucket>&quot;The Naked Gun&quot;</bucket>
+              <bucket>&quot;Mickey 17&quot;</bucket>
+              <bucket>&quot;Paddington in Peru&quot;</bucket>
+              <bucket>&quot;The Amateur&quot;</bucket>
+              <bucket>&quot;The Monkey&quot;</bucket>
+              <bucket>&quot;A Working Man&quot;</bucket>
+              <bucket>&quot;Materialists&quot;</bucket>
+              <bucket>&quot;Den of Thieves: Pantera&quot;</bucket>
+              <bucket>&quot;Star Wars: Episode III - Revenge of the Sith20th anniversary&quot;</bucket>
+              <bucket>&quot;I Know What You Did Last Summer&quot;</bucket>
+              <bucket>&quot;Smurfs&quot;</bucket>
+              <bucket>&quot;Heart Eyes&quot;</bucket>
+              <bucket>&quot;Flight Risk&quot;</bucket>
+              <bucket>&quot;Warfare&quot;</bucket>
+              <bucket>&quot;M3GAN 2.0&quot;</bucket>
+              <bucket>&quot;The Woman in the Yard&quot;</bucket>
+              <bucket>&quot;Ne Zha 2&quot;</bucket>
+              <bucket>&quot;Black Bag&quot;</bucket>
+              <bucket>&quot;Last Breath&quot;</bucket>
+              <bucket>&quot;Together&quot;</bucket>
+              <bucket>&quot;Companion&quot;</bucket>
+              <bucket>&quot;Wolf Man&quot;</bucket>
+              <bucket>&quot;Until Dawn&quot;</bucket>
+              <bucket>&quot;Novocaine&quot;</bucket>
+              <bucket>&quot;The Phoenician Scheme&quot;</bucket>
+              <bucket>&quot;Bring Her Back&quot;</bucket>
+              <bucket>&quot;Nobody 2&quot;</bucket>
+              <bucket>&quot;KPop Demon Hunters&quot;</bucket>
+              <bucket>&quot;Drop&quot;</bucket>
+              <bucket>&quot;Friendship&quot;</bucket>
+              <bucket>&quot;Love Hurts&quot;</bucket>
+              <bucket>&quot;The Last Rodeo&quot;</bucket>
+              <bucket>&quot;Death of a Unicorn&quot;</bucket>
+              <bucket>&quot;Becoming Led Zeppelin&quot;</bucket>
+              <bucket>&quot;Eddington&quot;</bucket>
+              <bucket>&quot;Caught Stealing&quot;</bucket>
+              <bucket>&quot;The Day the Earth Blew Up: A Looney Tunes Movie&quot;</bucket>
+              <bucket>&quot;The Roses&quot;</bucket>
+              <bucket>&quot;Sketch&quot;</bucket>
+              <bucket>&quot;Clown in a Cornfield&quot;</bucket>
+              <bucket>&quot;Presence&quot;</bucket>
+              <bucket>&quot;The Life of Chuck&quot;</bucket>
+              <bucket>&quot;The Unbreakable Boy&quot;</bucket>
+              <bucket>&quot;I&apos;m Still Here&quot;</bucket>
+              <bucket>&quot;Pride &amp; Prejudice20th Anniversary Re-Release&quot;</bucket>
+              <bucket>&quot;The Alto Knights&quot;</bucket>
+              <bucket>&quot;Hurry Up Tomorrow&quot;</bucket>
+              <bucket>&quot;Chhaava&quot;</bucket>
+              <bucket>&quot;Brave the Dark&quot;</bucket>
+              <bucket>&quot;Honey Don&apos;t!&quot;</bucket>
+              <bucket>&quot;The Friend&quot;</bucket>
+              <bucket>&quot;Shadow Force&quot;</bucket>
+              <bucket>&quot;Shin Godzilla2025 Re-release&quot;</bucket>
+              <bucket>&quot;Fight or Flight&quot;</bucket>
+              <bucket>&quot;Saiyaara&quot;</bucket>
+              <bucket>&quot;The Penguin Lessons&quot;</bucket>
+              <bucket>&quot;Hell of a Summer&quot;</bucket>
+              <bucket>&quot;War 2&quot;</bucket>
+              <bucket>&quot;Rule Breakers&quot;</bucket>
+              <bucket>&quot;Dangerous Animals&quot;</bucket>
+              <bucket>&quot;Relay&quot;</bucket>
+              <bucket>&quot;The Legend of Ochi&quot;</bucket>
+              <bucket>&quot;Sorry, Baby&quot;</bucket>
+              <bucket>&quot;The Toxic Avenger&quot;</bucket>
+              <bucket>&quot;Night of the Zoopocalypse&quot;</bucket>
+              <bucket>&quot;The Wedding Banquet&quot;</bucket>
+              <bucket>&quot;Oh, Hi!&quot;</bucket>
+              <bucket>&quot;Opus&quot;</bucket>
+              <bucket>&quot;Jane Austen Wrecked My Life&quot;</bucket>
+              <bucket>&quot;In the Lost Lands&quot;</bucket>
+              <bucket>&quot;Riff Raff&quot;</bucket>
+              <bucket>&quot;Green and Gold&quot;</bucket>
+              <bucket>&quot;Locked&quot;</bucket>
+              <bucket>&quot;The Ballad of Wallis Island&quot;</bucket>
+              <bucket>&quot;8-Oct&quot;</bucket>
+              <bucket>&quot;The Damned&quot;</bucket>
+              <bucket>&quot;Eden&quot;</bucket>
+              <bucket>&quot;The Surfer&quot;</bucket>
+              <bucket>&quot;It&apos;s Never Over, Jeff Buckley&quot;</bucket>
+              <bucket>&quot;My Dead Friend Zoe&quot;</bucket>
+              <bucket>&quot;Valiant One&quot;</bucket>
+              <bucket>&quot;Magazine Dreams&quot;</bucket>
+              <bucket>&quot;Housefull 5&quot;</bucket>
+              <bucket>&quot;Ash&quot;</bucket>
+              <bucket>&quot;This Is Spinal Tap41st Anniversary&quot;</bucket>
+              <bucket>&quot;Brokeback Mountain20th anniversary&quot;</bucket>
+              <bucket>&quot;On Swift Horses&quot;</bucket>
+              <bucket>&quot;The Unholy Trinity&quot;</bucket>
+              <bucket>&quot;Sneaks&quot;</bucket>
+              <bucket>&quot;Seven2025 Re-release&quot;</bucket>
+              <bucket>&quot;A Nice Indian Boy&quot;</bucket>
+              <bucket>&quot;My Mother&apos;s Wedding&quot;</bucket>
+              <bucket>&quot;Rosario&quot;</bucket>
+              <bucket>&quot;Secret Mall Apartment&quot;</bucket>
+              <bucket>&quot;Hard Truths&quot;</bucket>
+              <bucket>&quot;Cleaner&quot;</bucket>
+              <bucket>&quot;40 Acres&quot;</bucket>
+              <bucket>&quot;The Shrouds&quot;</bucket>
+              <bucket>&quot;In the Mood for Love25th Anniversary&quot;</bucket>
+              <bucket>&quot;Cheech &amp; Chong&apos;s Last Movie&quot;</bucket>
+              <bucket>&quot;Sing Sing2025 Re-release&quot;</bucket>
+              <bucket>&quot;Sacramento&quot;</bucket>
+              <bucket>&quot;Queen of the Ring&quot;</bucket>
+              <bucket>&quot;Don&apos;t Let&apos;s Go to the Dogs Tonight&quot;</bucket>
+              <bucket>&quot;East of Wall&quot;</bucket>
+              <bucket>&quot;The Colors Within&quot;</bucket>
+              <bucket>&quot;Autumn and the Black Jaguar&quot;</bucket>
+              <bucket>&quot;Bob Trevino Likes It&quot;</bucket>
+              <bucket>&quot;The Encampments&quot;</bucket>
+              <bucket>&quot;The Ritual&quot;</bucket>
+              <bucket>&quot;Kaiju No. 8: Mission Recon&quot;</bucket>
+              <bucket>&quot;Parasite2025 Re-release&quot;</bucket>
+              <bucket>&quot;Juliet &amp; Romeo&quot;</bucket>
+              <bucket>&quot;House on Eden&quot;</bucket>
+              <bucket>&quot;The Rule of Jenny Pen&quot;</bucket>
+              <bucket>&quot;The Luckiest Man in America&quot;</bucket>
+              <bucket>&quot;The Prosecutor&quot;</bucket>
+              <bucket>&quot;One to One: John &amp; Yoko&quot;</bucket>
+              <bucket>&quot;Strange Harvest&quot;</bucket>
+              <bucket>&quot;Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release&quot;</bucket>
+              <bucket>&quot;Love Me&quot;</bucket>
+              <bucket>&quot;Pavements&quot;</bucket>
+              <bucket>&quot;Cloud&quot;</bucket>
+              <bucket>&quot;Bring Them Down&quot;</bucket>
+              <bucket>&quot;Trust&quot;</bucket>
+              <bucket>&quot;A Sloth Story&quot;</bucket>
+              <bucket>&quot;Hell House LLC: Lineage&quot;</bucket>
+              <bucket>&quot;The Ugly Stepsister&quot;</bucket>
+              <bucket>&quot;Caught by the Tides&quot;</bucket>
+              <bucket>&quot;Parthenope&quot;</bucket>
+              <bucket>&quot;The Assessment&quot;</bucket>
+              <bucket>&quot;Witchboard&quot;</bucket>
+              <bucket>&quot;I Don&apos;t Understand You&quot;</bucket>
+              <bucket>&quot;Bonjour Tristesse&quot;</bucket>
+              <bucket>&quot;Peter Pan&apos;s Neverland Nightmare&quot;</bucket>
+              <bucket>&quot;Liza: A Truly Terrific Absolutely True Story&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[usr:Calculation_1152640079701274624:ok]'>
+            <groupfilter function='member' level='[usr:Calculation_1152640079701274624:ok]' member='true' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[usr:Calculation_1152640079701274624:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='font-size' scope='cols' value='8' />
+            <format attr='font-weight' scope='cols' value='bold' />
+            <format attr='color' scope='cols' value='#000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <text column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Tomatometer Score:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='size' value='1.4832596778869629' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Total Gross:qk]</rows>
+        <cols>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Movie Title:nk]</cols>
+      </table>
+      <simple-id uuid='{B3E0B1FF-4DAC-465F-A2F7-4E5CF14D5452}' />
+    </worksheet>
+    <worksheet name='Bar Graph of Distributers Box Office'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1!Table1 (movie_analasys)' name='federated.1m4zf0p0jpy8xp1eqac2j184765t' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Top Box Office %' datatype='real' default-format='p0%' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='0.5'>
+              <calculation class='tableau' formula='0.5' />
+              <range granularity='0.01' max='1.0' min='0.0' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1m4zf0p0jpy8xp1eqac2j184765t'>
+            <column caption='Rank Percentage Of Total Box Office' datatype='boolean' default-format='p0%' name='[Calculation_1152640079701274624]' role='measure' type='nominal'>
+              <calculation class='tableau' formula='RANK_PERCENTILE([Percentage Of Total Box Office (copy)_1152640079992086533]) &gt;= ([Parameters].[Parameter 1])'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Total Box Office' datatype='integer' name='[Calculation_426716114758807558]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='TOTAL(SUM([Total Gross]))'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column datatype='string' name='[Distributor]' role='dimension' type='nominal' />
+            <column caption='Percentage Of Total Box Office (copy)' datatype='real' default-format='p0%' name='[Percentage Of Total Box Office (copy)_1152640079992086533]' role='measure' type='ordinal'>
+              <calculation class='tableau' formula='MAX([Total Gross])/[Calculation_426716114758807558]'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Domestic Box Office' datatype='integer' name='[Total Gross]' role='measure' type='quantitative' />
+            <column-instance column='[Distributor]' derivation='None' name='[none:Distributor:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Total Gross]' derivation='Sum' name='[sum:Total Gross:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1152640079701274624]' derivation='User' name='[usr:Calculation_1152640079701274624:ok]' pivot='key' type='nominal'>
+              <table-calc ordering-type='Rows' />
+              <table-calc field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[Calculation_426716114758807558]' ordering-type='Rows' />
+              <table-calc field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[Percentage Of Total Box Office (copy)_1152640079992086533]' ordering-type='Rows' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[usr:Calculation_1152640079701274624:ok]'>
+            <groupfilter function='member' level='[usr:Calculation_1152640079701274624:ok]' member='true' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Total Gross:qk]' shelf='columns' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[usr:Calculation_1152640079701274624:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='font-size' field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]' value='8' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Total Gross:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Total Gross:qk]</rows>
+        <cols>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]</cols>
+      </table>
+      <simple-id uuid='{2E21A7DB-4A55-4FAB-8100-0EBAC7A417B9}' />
+    </worksheet>
+    <worksheet name='Scatter Plot'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1!Table1 (movie_analasys)' name='federated.1m4zf0p0jpy8xp1eqac2j184765t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1m4zf0p0jpy8xp1eqac2j184765t'>
+            <column datatype='string' name='[Distributor]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Movie Title]' role='dimension' type='nominal' />
+            <column datatype='real' default-format='p0%' name='[Tomatometer Score]' role='measure' type='quantitative' />
+            <column caption='Domestic Box Office' datatype='integer' name='[Total Gross]' role='measure' type='quantitative' />
+            <column-instance column='[Distributor]' derivation='None' name='[none:Distributor:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Movie Title]' derivation='None' name='[none:Movie Title:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Tomatometer Score]' derivation='Sum' name='[sum:Tomatometer Score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Total Gross]' derivation='Sum' name='[sum:Total Gross:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Tomatometer Score:qk]' value='p0%' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-format' field='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Tomatometer Score:qk]' value='p0%' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]' />
+              <text column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Movie Title:nk]' />
+              <lod column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Movie Title:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='1145' />
+                <format attr='maxwidth' value='1145' />
+                <format attr='minheight' value='600' />
+                <format attr='maxheight' value='600' />
+                <format attr='aspect' value='0' />
+                <format attr='minwidth' value='1145' />
+                <format attr='maxwidth' value='1145' />
+                <format attr='minheight' value='600' />
+                <format attr='maxheight' value='600' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Total Gross:qk]</rows>
+        <cols>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[sum:Tomatometer Score:qk]</cols>
+      </table>
+      <simple-id uuid='{F2BB1ACB-4BA1-4059-AF2E-2BB134324888}' />
+    </worksheet>
+    <worksheet name='Sheet 4'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1!Table1 (movie_analasys)' name='federated.1m4zf0p0jpy8xp1eqac2j184765t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1m4zf0p0jpy8xp1eqac2j184765t'>
+            <column datatype='string' name='[Distributor]' role='dimension' type='nominal' />
+            <column datatype='real' default-format='p0%' name='[Tomatometer Score]' role='measure' type='quantitative' />
+            <column-instance column='[Tomatometer Score]' derivation='Avg' name='[avg:Tomatometer Score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Tomatometer Score]' derivation='Count' name='[cnt:Tomatometer Score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Distributor]' derivation='None' name='[none:Distributor:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[cnt:Tomatometer Score:qk]' included-values='in-range'>
+            <min>5</min>
+            <max>10</max>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[avg:Tomatometer Score:qk]' shelf='columns' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[cnt:Tomatometer Score:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[avg:Tomatometer Score:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[avg:Tomatometer Score:qk]</rows>
+        <cols>[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]</cols>
+      </table>
+      <simple-id uuid='{223F237A-F8F2-48E1-886D-C69CBCDCDD2D}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='37'>
+    <window class='worksheet' name='Scatter Plot'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.1m4zf0p0jpy8xp1eqac2j184765t].[none:Distributor:nk]' size='307' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{5D1BFE1A-DD74-4E3A-A1B0-AE0235E63245}' />
+    </window>
+    <window class='worksheet' name='Bar Graph Of Movie Titles'>
+      <cards>
+        <edge name='left'>
+          <strip size='125'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='slider' param='[Parameters].[Parameter 1]' type='parameter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{593EBE7C-B522-4F83-8938-D716E7BB09E9}' />
+    </window>
+    <window class='worksheet' name='Bar Graph of Distributers Box Office'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='slider' param='[Parameters].[Parameter 1]' type='parameter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-width' />
+      </viewpoint>
+      <simple-id uuid='{F46653CC-C5DF-4937-BEB2-E1B33F3B761D}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 4'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-width' />
+      </viewpoint>
+      <simple-id uuid='{8B1A86D0-71DD-4D30-9C1D-8F250AD9D2FE}' />
+    </window>
+  </windows>
+</workbook>

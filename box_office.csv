@@ -1,801 +1,1401 @@
 id,title,total_gross,release_date,distributor,pulled_at
-1,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-08-24
-2,Lilo & Stitch,"$421,801,492",May 23,Walt Disney Studios Motion Pictures,2025-08-24
-3,Superman,"$343,545,181",Jul 11,Warner Bros.,2025-08-24
-4,Jurassic World: Rebirth,"$333,479,810",Jul 2,Universal Pictures,2025-08-24
-5,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-08-24
-6,How to Train Your Dragon,"$262,519,310",Jun 13,Universal Pictures International (UPI),2025-08-24
-7,The Fantastic Four: First Steps,"$251,351,951",Jul 25,Walt Disney Studios Motion Pictures,2025-08-24
-8,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-08-24
-9,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-08-24
-10,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-08-24
-11,F1: The Movie,"$185,908,240",Jun 27,Warner Bros.,2025-08-24
-12,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-08-24
-13,Weapons,"$100,280,823",Aug 8,Warner Bros.,2025-08-24
-14,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-08-24
-15,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-08-24
-16,Elio,"$72,919,628",Jun 20,Walt Disney Studios Motion Pictures,2025-08-24
-17,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-08-24
-18,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-08-24
-19,Freakier Friday,"$61,340,708",Aug 8,Walt Disney Studios Motion Pictures,2025-08-24
-20,The Bad Guys 2,"$61,078,030",Aug 1,Universal Pictures,2025-08-24
-21,The King of Kings,"$60,270,106",Apr 11,Angel,2025-08-24
-22,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-08-24
-23,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-08-24
-24,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-08-24
-25,The Naked Gun,"$47,563,349",Aug 1,Paramount Pictures International,2025-08-24
-26,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-08-24
-27,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-08-24
-28,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-08-24
-29,The Monkey,"$39,724,909",Feb 21,Neon,2025-08-24
-30,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-08-24
-31,Materialists,"$36,503,614",Jun 13,A24,2025-08-24
-32,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-08-24
-33,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-08-24
-34,I Know What You Did Last Summer,"$31,937,000",Jul 18,Sony Pictures Releasing,2025-08-24
-35,Smurfs,"$30,970,979",Jul 18,Paramount Pictures International,2025-08-24
-36,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-08-24
-37,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-08-24
-38,Warfare,"$26,000,309",Apr 11,A24,2025-08-24
-39,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-08-24
-40,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-08-24
-41,Ne Zha 2,"$22,405,655",Feb 14,CMC Pictures,2025-08-24
-42,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-08-24
-43,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-08-24
-44,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-08-24
-45,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-08-24
-46,Together,"$20,301,338",Jul 30,Neon,2025-08-24
-47,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-08-24
-48,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-08-24
-49,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-08-24
-50,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-08-24
-51,Bring Her Back,"$19,323,752",May 30,A24,2025-08-24
-52,KPop Demon Hunters,"$18,000,000",Aug 22,Netflix,2025-08-24
-53,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-08-24
-54,Friendship,"$16,228,274",May 9,A24,2025-08-24
-55,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-08-24
-56,The Last Rodeo,"$15,201,659",May 23,Angel,2025-08-24
-57,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-08-24
-58,Nobody 2,"$12,846,585",Aug 15,Universal Pictures International (UPI),2025-08-24
-59,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-08-24
-60,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-08-24
-61,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-08-24
-62,Eddington,"$10,109,484",Jul 18,A24,2025-08-24
-63,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-08-24
-64,Sketch,"$7,570,279",Aug 6,Angel,2025-08-24
-65,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-08-24
-66,Presence,"$6,900,044",Jan 24,Neon,2025-08-24
-67,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-08-24
-68,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-08-24
-69,The Last Supper,"$6,564,857",Mar 14,-,2025-08-24
-70,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-08-24
-71,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-08-24
-72,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-08-24
-73,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-08-24
-74,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-08-24
-75,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-08-24
-76,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-08-24
-77,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-08-24
-78,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-08-24
-79,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-08-24
-80,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-08-24
-81,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-08-24
-82,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-08-24
-83,Shin Godzilla2025 Re-release,"$3,344,479",Aug 14,GKIDS,2025-08-24
-84,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-08-24
-85,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-08-24
-86,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-08-24
-87,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-08-24
-88,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-08-24
-89,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-08-24
-90,Honey Don't!,"$2,950,000",Aug 22,Focus Features,2025-08-24
-91,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-08-24
-92,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-08-24
-93,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-08-24
-94,No Other Land,"$2,549,422",Jan 31,-,2025-08-24
-95,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-08-24
-96,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-08-24
-97,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-08-24
-98,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-08-24
-99,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-08-24
-100,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-08-24
-101,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-08-24
-102,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-08-24
-103,"Oh, Hi!","$2,063,968",Jul 25,Sony Pictures Classics,2025-08-24
-104,Opus,"$1,993,397",Mar 14,A24,2025-08-24
-105,Relay,"$1,927,941",Aug 22,Bleecker Street Media,2025-08-24
-106,Jane Austen Wrecked My Life,"$1,883,289",May 23,Sony Pictures Classics,2025-08-24
-107,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-08-24
-108,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-08-24
-109,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-08-24
-110,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-08-24
-111,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-08-24
-112,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-08-24
-113,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-08-24
-114,The Home,"$1,576,944",Jul 25,Lionsgate,2025-08-24
-115,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-08-24
-116,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-08-24
-117,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-08-24
-118,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-08-24
-119,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-08-24
-120,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-08-24
-121,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-08-24
-122,Housefull 5,"$1,152,549",Jun 6,-,2025-08-24
-123,Ash,"$1,083,743",Mar 21,Shudder,2025-08-24
-124,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-08-24
-125,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-08-24
-126,"It's Never Over, Jeff Buckley","$1,050,878",Aug 8,Magnolia Pictures,2025-08-24
-127,Eden,"$1,047,305",Aug 22,Vertical Entertainment,2025-08-24
-128,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-08-24
-129,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-08-24
-130,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-08-24
-131,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-08-24
-132,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-08-24
-133,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-08-24
-134,Rosario,"$866,466",May 2,Mucho Mas Media,2025-08-24
-135,CatVideoFest 2025,"$863,828",Aug 1,Oscilloscope,2025-08-24
-136,My Mother's Wedding,"$855,076",Aug 8,Vertical Entertainment,2025-08-24
-137,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-08-24
-138,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-08-24
-139,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-08-24
-140,Guru Nanak Jahaz,"$793,000",May 2,-,2025-08-24
-141,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-08-24
-142,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-08-24
-143,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-08-24
-144,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-08-24
-145,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-08-24
-146,In the Mood for Love25th Anniversary,"$718,762",Jun 27,Janus Films,2025-08-24
-147,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-08-24
-148,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-08-24
-149,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-08-24
-150,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-08-24
-151,Don't Let's Go to the Dogs Tonight,"$604,174",Jul 11,Sony Pictures Releasing,2025-08-24
-152,East of Wall,"$563,462",Aug 15,Sony Pictures Classics,2025-08-24
-153,The Colors Within,"$557,116",Jan 23,GKIDS,2025-08-24
-154,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-08-24
-155,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-08-24
-156,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-08-24
-157,The Ritual,"$527,118",Jun 6,XYZ Films,2025-08-24
-158,Eephus,"$524,945",Mar 7,Music Box Films,2025-08-24
-159,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-08-24
-160,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-08-24
-161,Raising the Bar: The Alma Richards Story,"$479,647",Apr 25,-,2025-08-24
-162,UFC 319: du Plessis vs. Chimaev,"$478,675",Aug 16,Iconic Events Releasing,2025-08-24
-163,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-08-24
-164,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-08-24
-165,House on Eden,"$455,830",Jul 25,IFC Films,2025-08-24
-166,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-08-24
-167,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-08-24
-168,The Last Class,"$425,552",Jun 27,Abramorama,2025-08-24
-169,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-08-24
-170,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-08-24
-171,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-08-24
-172,Strange Harvest,"$390,324",Aug 8,Roadside Attractions,2025-08-24
-173,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-08-24
-174,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-08-24
-175,Pavements,"$349,640",May 2,Utopia,2025-08-24
-176,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-08-24
-177,Bring Them Down,"$336,339",Feb 7,MUBI,2025-08-24
-178,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-08-24
-179,Cloud,"$331,621",Jul 18,Sideshow Releasing,2025-08-24
-180,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-08-24
-181,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-08-24
-182,Caught by the Tides,"$291,307",May 9,Janus Films,2025-08-24
-183,Parthenope,"$289,303",Feb 7,A24,2025-08-24
-184,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-08-24
-185,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-08-24
-186,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-08-24
-187,Witchboard,"$258,385",Aug 15,Atlas Distribution Company,2025-08-24
-188,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-08-24
-189,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-08-24
-190,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-08-24
-191,Trust,"$240,276",Aug 22,Republic Pictures,2025-08-24
-192,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-08-24
-193,Liza: A Truly Terrific Absolutely True Story,"$222,775",Jan 24,Zeitgeist Films,2025-08-24
-194,Turnstile: Never Enough,"$220,315",Jun 5,Sumerian Films,2025-08-24
-195,Sardaar Ji 3,"$220,000",Jun 27,-,2025-08-24
-196,Happy Gilmore2025 Re-release,"$217,255",Apr 25,Universal Pictures International (UPI),2025-08-24
-197,Universal Language,"$215,249",Feb 14,Oscilloscope,2025-08-24
-198,Tornado,"$213,795",May 30,IFC Films,2025-08-24
-199,Abraham's Boys,"$212,706",Jul 11,IFC Films,2025-08-24
-200,Every Little Thing,"$200,679",Jan 10,Kino Lorber,2025-08-24
-201,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-08-27
-202,Lilo & Stitch,"$421,807,503",May 23,Walt Disney Studios Motion Pictures,2025-08-27
-203,Superman,"$347,817,782",Jul 11,Warner Bros.,2025-08-27
-204,Jurassic World: Rebirth,"$336,076,600",Jul 2,Universal Pictures,2025-08-27
-205,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-08-27
-206,How to Train Your Dragon,"$262,657,115",Jun 13,Universal Pictures International (UPI),2025-08-27
-207,The Fantastic Four: First Steps,"$258,739,851",Jul 25,Walt Disney Studios Motion Pictures,2025-08-27
-208,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-08-27
-209,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-08-27
-210,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-08-27
-211,F1: The Movie,"$186,315,037",Jun 27,Warner Bros.,2025-08-27
-212,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-08-27
-213,Weapons,"$119,404,498",Aug 8,Warner Bros.,2025-08-27
-214,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-08-27
-215,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-08-27
-216,Elio,"$72,943,187",Jun 20,Walt Disney Studios Motion Pictures,2025-08-27
-217,Freakier Friday,"$72,407,296",Aug 8,Walt Disney Studios Motion Pictures,2025-08-27
-218,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-08-27
-219,The Bad Guys 2,"$67,407,690",Aug 1,Universal Pictures,2025-08-27
-220,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-08-27
-221,The King of Kings,"$60,270,106",Apr 11,Angel,2025-08-27
-222,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-08-27
-223,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-08-27
-224,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-08-27
-225,The Naked Gun,"$48,406,313",Aug 1,Paramount Pictures International,2025-08-27
-226,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-08-27
-227,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-08-27
-228,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-08-27
-229,The Monkey,"$39,724,909",Feb 21,Neon,2025-08-27
-230,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-08-27
-231,Materialists,"$36,503,614",Jun 13,A24,2025-08-27
-232,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-08-27
-233,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-08-27
-234,I Know What You Did Last Summer,"$32,143,924",Jul 18,Sony Pictures Releasing,2025-08-27
-235,Smurfs,"$31,054,059",Jul 18,Paramount Pictures International,2025-08-27
-236,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-08-27
-237,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-08-27
-238,Warfare,"$26,000,309",Apr 11,A24,2025-08-27
-239,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-08-27
-240,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-08-27
-241,Ne Zha 2,"$22,405,655",Feb 14,CMC Pictures,2025-08-27
-242,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-08-27
-243,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-08-27
-244,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-08-27
-245,Together,"$20,715,561",Jul 30,Neon,2025-08-27
-246,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-08-27
-247,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-08-27
-248,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-08-27
-249,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-08-27
-250,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-08-27
-251,Bring Her Back,"$19,323,752",May 30,A24,2025-08-27
-252,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-08-27
-253,Nobody 2,"$17,568,645",Aug 15,Universal Pictures International (UPI),2025-08-27
-254,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-08-27
-255,Friendship,"$16,228,274",May 9,A24,2025-08-27
-256,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-08-27
-257,The Last Rodeo,"$15,201,659",May 23,Angel,2025-08-27
-258,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-08-27
-259,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-08-27
-260,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-08-27
-261,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-08-27
-262,Eddington,"$10,109,484",Jul 18,A24,2025-08-27
-263,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-08-27
-264,Sketch,"$7,891,495",Aug 6,Angel,2025-08-27
-265,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-08-27
-266,Presence,"$6,900,044",Jan 24,Neon,2025-08-27
-267,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-08-27
-268,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-08-27
-269,The Last Supper,"$6,564,857",Mar 14,-,2025-08-27
-270,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-08-27
-271,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-08-27
-272,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-08-27
-273,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-08-27
-274,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-08-27
-275,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-08-27
-276,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-08-27
-277,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-08-27
-278,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-08-27
-279,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-08-27
-280,Honey Don't!,"$3,748,440",Aug 22,Focus Features,2025-08-27
-281,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-08-27
-282,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-08-27
-283,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-08-27
-284,Shin Godzilla2025 Re-release,"$3,344,479",Aug 14,GKIDS,2025-08-27
-285,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-08-27
-286,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-08-27
-287,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-08-27
-288,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-08-27
-289,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-08-27
-290,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-08-27
-291,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-08-27
-292,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-08-27
-293,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-08-27
-294,No Other Land,"$2,549,422",Jan 31,-,2025-08-27
-295,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-08-27
-296,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-08-27
-297,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-08-27
-298,Relay,"$2,318,805",Aug 22,Bleecker Street Media,2025-08-27
-299,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-08-27
-300,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-08-27
-301,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-08-27
-302,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-08-27
-303,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-08-27
-304,"Oh, Hi!","$2,072,077",Jul 25,Sony Pictures Classics,2025-08-27
-305,Opus,"$1,993,397",Mar 14,A24,2025-08-27
-306,Jane Austen Wrecked My Life,"$1,883,469",May 23,Sony Pictures Classics,2025-08-27
-307,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-08-27
-308,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-08-27
-309,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-08-27
-310,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-08-27
-311,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-08-27
-312,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-08-27
-313,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-08-27
-314,The Home,"$1,576,983",Jul 25,Lionsgate,2025-08-27
-315,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-08-27
-316,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-08-27
-317,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-08-27
-318,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-08-27
-319,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-08-27
-320,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-08-27
-321,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-08-27
-322,Housefull 5,"$1,152,549",Jun 6,-,2025-08-27
-323,Ash,"$1,083,743",Mar 21,Shudder,2025-08-27
-324,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-08-27
-325,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-08-27
-326,"It's Never Over, Jeff Buckley","$1,050,878",Aug 8,Magnolia Pictures,2025-08-27
-327,Eden,"$1,048,374",Aug 22,Vertical Entertainment,2025-08-27
-328,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-08-27
-329,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-08-27
-330,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-08-27
-331,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-08-27
-332,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-08-27
-333,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-08-27
-334,My Mother's Wedding,"$873,214",Aug 8,Vertical Entertainment,2025-08-27
-335,Rosario,"$866,466",May 2,Mucho Mas Media,2025-08-27
-336,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-08-27
-337,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-08-27
-338,CatVideoFest 2025,"$814,075",Aug 1,Oscilloscope,2025-08-27
-339,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-08-27
-340,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-08-27
-341,Guru Nanak Jahaz,"$793,000",May 2,-,2025-08-27
-342,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-08-27
-343,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-08-27
-344,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-08-27
-345,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-08-27
-346,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-08-27
-347,In the Mood for Love25th Anniversary,"$718,762",Jun 27,Janus Films,2025-08-27
-348,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-08-27
-349,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-08-27
-350,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-08-27
-351,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-08-27
-352,Don't Let's Go to the Dogs Tonight,"$609,783",Jul 11,Sony Pictures Releasing,2025-08-27
-353,East of Wall,"$565,867",Aug 15,Sony Pictures Classics,2025-08-27
-354,The Colors Within,"$557,116",Jan 23,GKIDS,2025-08-27
-355,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-08-27
-356,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-08-27
-357,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-08-27
-358,The Ritual,"$527,118",Jun 6,XYZ Films,2025-08-27
-359,Eephus,"$524,945",Mar 7,Music Box Films,2025-08-27
-360,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-08-27
-361,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-08-27
-362,Raising the Bar: The Alma Richards Story,"$479,647",Apr 25,-,2025-08-27
-363,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-08-27
-364,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-08-27
-365,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-08-27
-366,House on Eden,"$455,830",Jul 25,IFC Films,2025-08-27
-367,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-08-27
-368,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-08-27
-369,The Last Class,"$425,552",Jun 27,Abramorama,2025-08-27
-370,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-08-27
-371,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-08-27
-372,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-08-27
-373,Strange Harvest,"$390,877",Aug 8,Roadside Attractions,2025-08-27
-374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-08-27
-375,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-08-27
-376,Pavements,"$349,640",May 2,Utopia,2025-08-27
-377,Cloud,"$338,757",Jul 18,Sideshow Releasing,2025-08-27
-378,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-08-27
-379,Bring Them Down,"$336,339",Feb 7,MUBI,2025-08-27
-380,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-08-27
-381,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-08-27
-382,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-08-27
-383,Trust,"$304,014",Aug 22,Republic Pictures,2025-08-27
-384,Hell House LLC: Lineage,"$297,114",Aug 20,Iconic Events Releasing,2025-08-27
-385,Caught by the Tides,"$291,307",May 9,Janus Films,2025-08-27
-386,Parthenope,"$289,303",Feb 7,A24,2025-08-27
-387,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-08-27
-388,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-08-27
-389,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-08-27
-390,Witchboard,"$264,985",Aug 15,Atlas Distribution Company,2025-08-27
-391,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-08-27
-392,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-08-27
-393,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-08-27
-394,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-08-27
-395,Liza: A Truly Terrific Absolutely True Story,"$222,775",Jan 24,Zeitgeist Films,2025-08-27
-396,Turnstile: Never Enough,"$220,315",Jun 5,Sumerian Films,2025-08-27
-397,Sardaar Ji 3,"$220,000",Jun 27,-,2025-08-27
-398,Happy Gilmore2025 Re-release,"$217,255",Apr 25,Universal Pictures International (UPI),2025-08-27
-399,Universal Language,"$215,249",Feb 14,Oscilloscope,2025-08-27
-400,Tornado,"$213,795",May 30,IFC Films,2025-08-27
-401,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-08-27
-402,Lilo & Stitch,"$421,807,503",May 23,Walt Disney Studios Motion Pictures,2025-08-27
-403,Superman,"$347,817,782",Jul 11,Warner Bros.,2025-08-27
-404,Jurassic World: Rebirth,"$336,076,600",Jul 2,Universal Pictures,2025-08-27
-405,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-08-27
-406,How to Train Your Dragon,"$262,657,115",Jun 13,Universal Pictures International (UPI),2025-08-27
-407,The Fantastic Four: First Steps,"$258,739,851",Jul 25,Walt Disney Studios Motion Pictures,2025-08-27
-408,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-08-27
-409,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-08-27
-410,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-08-27
-411,F1: The Movie,"$186,315,037",Jun 27,Warner Bros.,2025-08-27
-412,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-08-27
-413,Weapons,"$119,404,498",Aug 8,Warner Bros.,2025-08-27
-414,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-08-27
-415,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-08-27
-416,Elio,"$72,943,187",Jun 20,Walt Disney Studios Motion Pictures,2025-08-27
-417,Freakier Friday,"$72,407,296",Aug 8,Walt Disney Studios Motion Pictures,2025-08-27
-418,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-08-27
-419,The Bad Guys 2,"$67,407,690",Aug 1,Universal Pictures,2025-08-27
-420,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-08-27
-421,The King of Kings,"$60,270,106",Apr 11,Angel,2025-08-27
-422,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-08-27
-423,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-08-27
-424,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-08-27
-425,The Naked Gun,"$48,406,313",Aug 1,Paramount Pictures International,2025-08-27
-426,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-08-27
-427,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-08-27
-428,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-08-27
-429,The Monkey,"$39,724,909",Feb 21,Neon,2025-08-27
-430,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-08-27
-431,Materialists,"$36,503,614",Jun 13,A24,2025-08-27
-432,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-08-27
-433,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-08-27
-434,I Know What You Did Last Summer,"$32,143,924",Jul 18,Sony Pictures Releasing,2025-08-27
-435,Smurfs,"$31,054,059",Jul 18,Paramount Pictures International,2025-08-27
-436,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-08-27
-437,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-08-27
-438,Warfare,"$26,000,309",Apr 11,A24,2025-08-27
-439,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-08-27
-440,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-08-27
-441,Ne Zha 2,"$22,405,655",Feb 14,CMC Pictures,2025-08-27
-442,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-08-27
-443,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-08-27
-444,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-08-27
-445,Together,"$20,715,561",Jul 30,Neon,2025-08-27
-446,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-08-27
-447,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-08-27
-448,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-08-27
-449,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-08-27
-450,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-08-27
-451,Bring Her Back,"$19,323,752",May 30,A24,2025-08-27
-452,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-08-27
-453,Nobody 2,"$17,568,645",Aug 15,Universal Pictures International (UPI),2025-08-27
-454,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-08-27
-455,Friendship,"$16,228,274",May 9,A24,2025-08-27
-456,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-08-27
-457,The Last Rodeo,"$15,201,659",May 23,Angel,2025-08-27
-458,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-08-27
-459,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-08-27
-460,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-08-27
-461,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-08-27
-462,Eddington,"$10,109,484",Jul 18,A24,2025-08-27
-463,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-08-27
-464,Sketch,"$7,891,495",Aug 6,Angel,2025-08-27
-465,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-08-27
-466,Presence,"$6,900,044",Jan 24,Neon,2025-08-27
-467,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-08-27
-468,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-08-27
-469,The Last Supper,"$6,564,857",Mar 14,-,2025-08-27
-470,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-08-27
-471,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-08-27
-472,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-08-27
-473,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-08-27
-474,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-08-27
-475,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-08-27
-476,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-08-27
-477,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-08-27
-478,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-08-27
-479,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-08-27
-480,Honey Don't!,"$3,748,440",Aug 22,Focus Features,2025-08-27
-481,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-08-27
-482,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-08-27
-483,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-08-27
-484,Shin Godzilla2025 Re-release,"$3,344,479",Aug 14,GKIDS,2025-08-27
-485,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-08-27
-486,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-08-27
-487,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-08-27
-488,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-08-27
-489,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-08-27
-490,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-08-27
-491,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-08-27
-492,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-08-27
-493,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-08-27
-494,No Other Land,"$2,549,422",Jan 31,-,2025-08-27
-495,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-08-27
-496,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-08-27
-497,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-08-27
-498,Relay,"$2,318,805",Aug 22,Bleecker Street Media,2025-08-27
-499,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-08-27
-500,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-08-27
-501,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-08-27
-502,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-08-27
-503,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-08-27
-504,"Oh, Hi!","$2,072,077",Jul 25,Sony Pictures Classics,2025-08-27
-505,Opus,"$1,993,397",Mar 14,A24,2025-08-27
-506,Jane Austen Wrecked My Life,"$1,883,469",May 23,Sony Pictures Classics,2025-08-27
-507,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-08-27
-508,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-08-27
-509,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-08-27
-510,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-08-27
-511,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-08-27
-512,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-08-27
-513,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-08-27
-514,The Home,"$1,576,983",Jul 25,Lionsgate,2025-08-27
-515,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-08-27
-516,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-08-27
-517,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-08-27
-518,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-08-27
-519,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-08-27
-520,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-08-27
-521,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-08-27
-522,Housefull 5,"$1,152,549",Jun 6,-,2025-08-27
-523,Ash,"$1,083,743",Mar 21,Shudder,2025-08-27
-524,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-08-27
-525,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-08-27
-526,"It's Never Over, Jeff Buckley","$1,050,878",Aug 8,Magnolia Pictures,2025-08-27
-527,Eden,"$1,048,374",Aug 22,Vertical Entertainment,2025-08-27
-528,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-08-27
-529,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-08-27
-530,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-08-27
-531,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-08-27
-532,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-08-27
-533,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-08-27
-534,My Mother's Wedding,"$873,214",Aug 8,Vertical Entertainment,2025-08-27
-535,Rosario,"$866,466",May 2,Mucho Mas Media,2025-08-27
-536,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-08-27
-537,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-08-27
-538,CatVideoFest 2025,"$814,075",Aug 1,Oscilloscope,2025-08-27
-539,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-08-27
-540,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-08-27
-541,Guru Nanak Jahaz,"$793,000",May 2,-,2025-08-27
-542,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-08-27
-543,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-08-27
-544,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-08-27
-545,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-08-27
-546,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-08-27
-547,In the Mood for Love25th Anniversary,"$718,762",Jun 27,Janus Films,2025-08-27
-548,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-08-27
-549,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-08-27
-550,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-08-27
-551,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-08-27
-552,Don't Let's Go to the Dogs Tonight,"$609,783",Jul 11,Sony Pictures Releasing,2025-08-27
-553,East of Wall,"$565,867",Aug 15,Sony Pictures Classics,2025-08-27
-554,The Colors Within,"$557,116",Jan 23,GKIDS,2025-08-27
-555,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-08-27
-556,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-08-27
-557,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-08-27
-558,The Ritual,"$527,118",Jun 6,XYZ Films,2025-08-27
-559,Eephus,"$524,945",Mar 7,Music Box Films,2025-08-27
-560,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-08-27
-561,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-08-27
-562,Raising the Bar: The Alma Richards Story,"$479,647",Apr 25,-,2025-08-27
-563,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-08-27
-564,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-08-27
-565,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-08-27
-566,House on Eden,"$455,830",Jul 25,IFC Films,2025-08-27
-567,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-08-27
-568,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-08-27
-569,The Last Class,"$425,552",Jun 27,Abramorama,2025-08-27
-570,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-08-27
-571,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-08-27
-572,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-08-27
-573,Strange Harvest,"$390,877",Aug 8,Roadside Attractions,2025-08-27
-574,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-08-27
-575,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-08-27
-576,Pavements,"$349,640",May 2,Utopia,2025-08-27
-577,Cloud,"$338,757",Jul 18,Sideshow Releasing,2025-08-27
-578,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-08-27
-579,Bring Them Down,"$336,339",Feb 7,MUBI,2025-08-27
-580,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-08-27
-581,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-08-27
-582,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-08-27
-583,Trust,"$304,014",Aug 22,Republic Pictures,2025-08-27
-584,Hell House LLC: Lineage,"$297,114",Aug 20,Iconic Events Releasing,2025-08-27
-585,Caught by the Tides,"$291,307",May 9,Janus Films,2025-08-27
-586,Parthenope,"$289,303",Feb 7,A24,2025-08-27
-587,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-08-27
-588,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-08-27
-589,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-08-27
-590,Witchboard,"$264,985",Aug 15,Atlas Distribution Company,2025-08-27
-591,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-08-27
-592,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-08-27
-593,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-08-27
-594,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-08-27
-595,Liza: A Truly Terrific Absolutely True Story,"$222,775",Jan 24,Zeitgeist Films,2025-08-27
-596,Turnstile: Never Enough,"$220,315",Jun 5,Sumerian Films,2025-08-27
-597,Sardaar Ji 3,"$220,000",Jun 27,-,2025-08-27
-598,Happy Gilmore2025 Re-release,"$217,255",Apr 25,Universal Pictures International (UPI),2025-08-27
-599,Universal Language,"$215,249",Feb 14,Oscilloscope,2025-08-27
-600,Tornado,"$213,795",May 30,IFC Films,2025-08-27
-601,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-08-28
-602,Lilo & Stitch,"$421,811,136",May 23,Walt Disney Studios Motion Pictures,2025-08-28
-603,Superman,"$348,158,792",Jul 11,Warner Bros.,2025-08-28
-604,Jurassic World: Rebirth,"$336,265,070",Jul 2,Universal Pictures,2025-08-28
-605,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-08-28
-606,How to Train Your Dragon,"$262,707,590",Jun 13,Universal Pictures International (UPI),2025-08-28
-607,The Fantastic Four: First Steps,"$259,271,617",Jul 25,Walt Disney Studios Motion Pictures,2025-08-28
-608,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-08-28
-609,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-08-28
-610,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-08-28
-611,F1: The Movie,"$186,526,203",Jun 27,Warner Bros.,2025-08-28
-612,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-08-28
-613,Weapons,"$120,852,983",Aug 8,Warner Bros.,2025-08-28
-614,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-08-28
-615,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-08-28
-616,Freakier Friday,"$73,183,796",Aug 8,Walt Disney Studios Motion Pictures,2025-08-28
-617,Elio,"$72,945,477",Jun 20,Walt Disney Studios Motion Pictures,2025-08-28
-618,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-08-28
-619,The Bad Guys 2,"$67,845,150",Aug 1,Universal Pictures,2025-08-28
-620,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-08-28
-621,The King of Kings,"$60,270,106",Apr 11,Angel,2025-08-28
-622,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-08-28
-623,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-08-28
-624,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-08-28
-625,The Naked Gun,"$48,738,452",Aug 1,Paramount Pictures International,2025-08-28
-626,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-08-28
-627,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-08-28
-628,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-08-28
-629,The Monkey,"$39,724,909",Feb 21,Neon,2025-08-28
-630,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-08-28
-631,Materialists,"$36,503,614",Jun 13,A24,2025-08-28
-632,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-08-28
-633,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-08-28
-634,I Know What You Did Last Summer,"$32,143,924",Jul 18,Sony Pictures Releasing,2025-08-28
-635,Smurfs,"$31,062,817",Jul 18,Paramount Pictures International,2025-08-28
-636,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-08-28
-637,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-08-28
-638,Warfare,"$26,000,309",Apr 11,A24,2025-08-28
-639,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-08-28
-640,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-08-28
-641,Ne Zha 2,"$22,405,655",Feb 14,CMC Pictures,2025-08-28
-642,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-08-28
-643,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-08-28
-644,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-08-28
-645,Together,"$20,715,561",Jul 30,Neon,2025-08-28
-646,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-08-28
-647,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-08-28
-648,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-08-28
-649,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-08-28
-650,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-08-28
-651,Bring Her Back,"$19,323,752",May 30,A24,2025-08-28
-652,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-08-28
-653,Nobody 2,"$17,931,675",Aug 15,Universal Pictures International (UPI),2025-08-28
-654,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-08-28
-655,Friendship,"$16,228,274",May 9,A24,2025-08-28
-656,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-08-28
-657,The Last Rodeo,"$15,201,659",May 23,Angel,2025-08-28
-658,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-08-28
-659,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-08-28
-660,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-08-28
-661,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-08-28
-662,Eddington,"$10,109,484",Jul 18,A24,2025-08-28
-663,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-08-28
-664,Sketch,"$7,923,780",Aug 6,Angel,2025-08-28
-665,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-08-28
-666,Presence,"$6,900,044",Jan 24,Neon,2025-08-28
-667,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-08-28
-668,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-08-28
-669,The Last Supper,"$6,564,857",Mar 14,-,2025-08-28
-670,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-08-28
-671,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-08-28
-672,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-08-28
-673,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-08-28
-674,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-08-28
-675,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-08-28
-676,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-08-28
-677,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-08-28
-678,Honey Don't!,"$4,005,450",Aug 22,Focus Features,2025-08-28
-679,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-08-28
-680,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-08-28
-681,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-08-28
-682,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-08-28
-683,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-08-28
-684,Shin Godzilla2025 Re-release,"$3,344,479",Aug 14,GKIDS,2025-08-28
-685,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-08-28
-686,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-08-28
-687,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-08-28
-688,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-08-28
-689,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-08-28
-690,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-08-28
-691,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-08-28
-692,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-08-28
-693,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-08-28
-694,No Other Land,"$2,549,422",Jan 31,-,2025-08-28
-695,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-08-28
-696,Relay,"$2,464,626",Aug 22,Bleecker Street Media,2025-08-28
-697,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-08-28
-698,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-08-28
-699,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-08-28
-700,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-08-28
-701,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-08-28
-702,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-08-28
-703,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-08-28
-704,"Oh, Hi!","$2,072,077",Jul 25,Sony Pictures Classics,2025-08-28
-705,Opus,"$1,993,397",Mar 14,A24,2025-08-28
-706,Jane Austen Wrecked My Life,"$1,883,469",May 23,Sony Pictures Classics,2025-08-28
-707,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-08-28
-708,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-08-28
-709,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-08-28
-710,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-08-28
-711,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-08-28
-712,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-08-28
-713,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-08-28
-714,The Home,"$1,576,983",Jul 25,Lionsgate,2025-08-28
-715,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-08-28
-716,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-08-28
-717,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-08-28
-718,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-08-28
-719,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-08-28
-720,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-08-28
-721,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-08-28
-722,Housefull 5,"$1,152,549",Jun 6,-,2025-08-28
-723,Ash,"$1,083,743",Mar 21,Shudder,2025-08-28
-724,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-08-28
-725,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-08-28
-726,"It's Never Over, Jeff Buckley","$1,050,878",Aug 8,Magnolia Pictures,2025-08-28
-727,Eden,"$1,048,374",Aug 22,Vertical Entertainment,2025-08-28
-728,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-08-28
-729,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-08-28
-730,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-08-28
-731,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-08-28
-732,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-08-28
-733,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-08-28
-734,My Mother's Wedding,"$873,214",Aug 8,Vertical Entertainment,2025-08-28
-735,Rosario,"$866,466",May 2,Mucho Mas Media,2025-08-28
-736,CatVideoFest 2025,"$863,828",Aug 1,Oscilloscope,2025-08-28
-737,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-08-28
-738,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-08-28
-739,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-08-28
-740,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-08-28
-741,Guru Nanak Jahaz,"$793,000",May 2,-,2025-08-28
-742,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-08-28
-743,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-08-28
-744,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-08-28
-745,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-08-28
-746,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-08-28
-747,In the Mood for Love25th Anniversary,"$718,762",Jun 27,Janus Films,2025-08-28
-748,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-08-28
-749,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-08-28
-750,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-08-28
-751,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-08-28
-752,Don't Let's Go to the Dogs Tonight,"$609,783",Jul 11,Sony Pictures Releasing,2025-08-28
-753,East of Wall,"$565,867",Aug 15,Sony Pictures Classics,2025-08-28
-754,The Colors Within,"$557,116",Jan 23,GKIDS,2025-08-28
-755,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-08-28
-756,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-08-28
-757,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-08-28
-758,The Ritual,"$527,118",Jun 6,XYZ Films,2025-08-28
-759,Eephus,"$524,945",Mar 7,Music Box Films,2025-08-28
-760,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-08-28
-761,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-08-28
-762,Raising the Bar: The Alma Richards Story,"$479,647",Apr 25,-,2025-08-28
-763,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-08-28
-764,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-08-28
-765,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-08-28
-766,House on Eden,"$455,830",Jul 25,IFC Films,2025-08-28
-767,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-08-28
-768,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-08-28
-769,The Last Class,"$425,552",Jun 27,Abramorama,2025-08-28
-770,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-08-28
-771,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-08-28
-772,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-08-28
-773,Strange Harvest,"$390,877",Aug 8,Roadside Attractions,2025-08-28
-774,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-08-28
-775,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-08-28
-776,Pavements,"$349,640",May 2,Utopia,2025-08-28
-777,Cloud,"$338,757",Jul 18,Sideshow Releasing,2025-08-28
-778,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-08-28
-779,Bring Them Down,"$336,339",Feb 7,MUBI,2025-08-28
-780,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-08-28
-781,Trust,"$330,899",Aug 22,Republic Pictures,2025-08-28
-782,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-08-28
-783,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-08-28
-784,Hell House LLC: Lineage,"$297,114",Aug 20,Iconic Events Releasing,2025-08-28
-785,Caught by the Tides,"$291,307",May 9,Janus Films,2025-08-28
-786,Parthenope,"$289,303",Feb 7,A24,2025-08-28
-787,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-08-28
-788,Witchboard,"$266,085",Aug 15,Atlas Distribution Company,2025-08-28
-789,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-08-28
-790,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-08-28
-791,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-08-28
-792,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-08-28
-793,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-08-28
-794,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-08-28
-795,Liza: A Truly Terrific Absolutely True Story,"$222,775",Jan 24,Zeitgeist Films,2025-08-28
-796,Turnstile: Never Enough,"$220,315",Jun 5,Sumerian Films,2025-08-28
-797,Sardaar Ji 3,"$220,000",Jun 27,-,2025-08-28
-798,Happy Gilmore2025 Re-release,"$217,255",Apr 25,Universal Pictures International (UPI),2025-08-28
-799,Universal Language,"$215,249",Feb 14,Oscilloscope,2025-08-28
-800,Tornado,"$213,795",May 30,IFC Films,2025-08-28
+1,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-08-31
+2,Lilo & Stitch,"$421,818,538",May 23,Walt Disney Studios Motion Pictures,2025-08-31
+3,Superman,"$348,463,613",Jul 11,Warner Bros.,2025-08-31
+4,Jurassic World: Rebirth,"$336,415,615",Jul 2,Universal Pictures,2025-08-31
+5,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-08-31
+6,How to Train Your Dragon,"$262,747,245",Jun 13,Universal Pictures International (UPI),2025-08-31
+7,The Fantastic Four: First Steps,"$259,826,180",Jul 25,Walt Disney Studios Motion Pictures,2025-08-31
+8,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-08-31
+9,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-08-31
+10,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-08-31
+11,F1: The Movie,"$186,676,545",Jun 27,Warner Bros.,2025-08-31
+12,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-08-31
+13,Weapons,"$122,187,687",Aug 8,Warner Bros.,2025-08-31
+14,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-08-31
+15,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-08-31
+16,Freakier Friday,"$73,949,885",Aug 8,Walt Disney Studios Motion Pictures,2025-08-31
+17,Elio,"$72,949,866",Jun 20,Walt Disney Studios Motion Pictures,2025-08-31
+18,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-08-31
+19,The Bad Guys 2,"$68,309,680",Aug 1,Universal Pictures,2025-08-31
+20,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-08-31
+21,The King of Kings,"$60,270,106",Apr 11,Angel,2025-08-31
+22,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-08-31
+23,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-08-31
+24,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-08-31
+25,The Naked Gun,"$49,010,167",Aug 1,Paramount Pictures International,2025-08-31
+26,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-08-31
+27,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-08-31
+28,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-08-31
+29,The Monkey,"$39,724,909",Feb 21,Neon,2025-08-31
+30,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-08-31
+31,Materialists,"$36,503,614",Jun 13,A24,2025-08-31
+32,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-08-31
+33,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-08-31
+34,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-08-31
+35,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-08-31
+36,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-08-31
+37,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-08-31
+38,Warfare,"$26,000,309",Apr 11,A24,2025-08-31
+39,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-08-31
+40,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-08-31
+41,Ne Zha 2,"$22,405,655",Feb 14,CMC Pictures,2025-08-31
+42,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-08-31
+43,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-08-31
+44,Together,"$20,921,699",Jul 30,Neon,2025-08-31
+45,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-08-31
+46,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-08-31
+47,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-08-31
+48,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-08-31
+49,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-08-31
+50,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-08-31
+51,Bring Her Back,"$19,323,752",May 30,A24,2025-08-31
+52,Nobody 2,"$18,231,765",Aug 15,Universal Pictures International (UPI),2025-08-31
+53,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-08-31
+54,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-08-31
+55,Friendship,"$16,228,274",May 9,A24,2025-08-31
+56,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-08-31
+57,The Last Rodeo,"$15,201,659",May 23,Angel,2025-08-31
+58,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-08-31
+59,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-08-31
+60,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-08-31
+61,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-08-31
+62,Eddington,"$10,109,484",Jul 18,A24,2025-08-31
+63,Jaws2025 Re-release (50th Anniversary),"$9,800,000",Aug 29,-,2025-08-31
+64,Caught Stealing,"$9,500,000",Aug 29,Sony Pictures Releasing,2025-08-31
+65,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-08-31
+66,The Roses,"$8,000,000",Aug 29,Walt Disney Studios Motion Pictures,2025-08-31
+67,Sketch,"$7,950,352",Aug 6,Angel,2025-08-31
+68,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-08-31
+69,Presence,"$6,900,044",Jan 24,Neon,2025-08-31
+70,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-08-31
+71,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-08-31
+72,The Last Supper,"$6,564,857",Mar 14,-,2025-08-31
+73,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-08-31
+74,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-08-31
+75,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-08-31
+76,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-08-31
+77,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-08-31
+78,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-08-31
+79,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-08-31
+80,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-08-31
+81,Honey Don't!,"$4,196,240",Aug 22,Focus Features,2025-08-31
+82,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-08-31
+83,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-08-31
+84,Shin Godzilla2025 Re-release,"$3,896,765",Aug 14,GKIDS,2025-08-31
+85,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-08-31
+86,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-08-31
+87,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-08-31
+88,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-08-31
+89,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-08-31
+90,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-08-31
+91,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-08-31
+92,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-08-31
+93,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-08-31
+94,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-08-31
+95,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-08-31
+96,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-08-31
+97,Relay,"$2,565,551",Aug 22,Bleecker Street Media,2025-08-31
+98,No Other Land,"$2,549,422",Jan 31,-,2025-08-31
+99,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-08-31
+100,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-08-31
+101,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-08-31
+102,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-08-31
+103,The Toxic Avenger,"$2,200,651",Aug 29,Iconic Events Releasing,2025-08-31
+104,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-08-31
+105,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-08-31
+106,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-08-31
+107,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-08-31
+108,"Oh, Hi!","$2,072,077",Jul 25,Sony Pictures Classics,2025-08-31
+109,Opus,"$1,993,397",Mar 14,A24,2025-08-31
+110,Jane Austen Wrecked My Life,"$1,883,469",May 23,Sony Pictures Classics,2025-08-31
+111,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-08-31
+112,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-08-31
+113,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-08-31
+114,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-08-31
+115,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-08-31
+116,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-08-31
+117,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-08-31
+118,The Home,"$1,576,983",Jul 25,Lionsgate,2025-08-31
+119,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-08-31
+120,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-08-31
+121,Eden,"$1,334,475",Aug 22,Vertical Entertainment,2025-08-31
+122,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-08-31
+123,"It's Never Over, Jeff Buckley","$1,274,794",Aug 8,Magnolia Pictures,2025-08-31
+124,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-08-31
+125,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-08-31
+126,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-08-31
+127,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-08-31
+128,Housefull 5,"$1,152,549",Jun 6,-,2025-08-31
+129,Ash,"$1,083,743",Mar 21,Shudder,2025-08-31
+130,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-08-31
+131,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-08-31
+132,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-08-31
+133,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-08-31
+134,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-08-31
+135,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-08-31
+136,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-08-31
+137,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-08-31
+138,My Mother's Wedding,"$889,078",Aug 8,Vertical Entertainment,2025-08-31
+139,CatVideoFest 2025,"$875,271",Aug 1,Oscilloscope,2025-08-31
+140,Rosario,"$866,466",May 2,Mucho Mas Media,2025-08-31
+141,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-08-31
+142,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-08-31
+143,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-08-31
+144,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-08-31
+145,Guru Nanak Jahaz,"$793,000",May 2,-,2025-08-31
+146,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-08-31
+147,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-08-31
+148,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-08-31
+149,In the Mood for Love25th Anniversary,"$751,637",Jun 27,Janus Films,2025-08-31
+150,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-08-31
+151,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-08-31
+152,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-08-31
+153,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-08-31
+154,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-08-31
+155,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-08-31
+156,Don't Let's Go to the Dogs Tonight,"$609,783",Jul 11,Sony Pictures Releasing,2025-08-31
+157,East of Wall,"$565,867",Aug 15,Sony Pictures Classics,2025-08-31
+158,The Colors Within,"$557,116",Jan 23,GKIDS,2025-08-31
+159,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-08-31
+160,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-08-31
+161,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-08-31
+162,The Ritual,"$527,118",Jun 6,XYZ Films,2025-08-31
+163,Eephus,"$524,945",Mar 7,Music Box Films,2025-08-31
+164,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-08-31
+165,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-08-31
+166,Raising the Bar: The Alma Richards Story,"$479,647",Apr 25,-,2025-08-31
+167,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-08-31
+168,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-08-31
+169,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-08-31
+170,House on Eden,"$455,830",Jul 25,IFC Films,2025-08-31
+171,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-08-31
+172,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-08-31
+173,The Last Class,"$425,552",Jun 27,Abramorama,2025-08-31
+174,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-08-31
+175,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-08-31
+176,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-08-31
+177,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-08-31
+178,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-08-31
+179,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-08-31
+180,Pavements,"$349,640",May 2,Utopia,2025-08-31
+181,Cloud,"$344,002",Jul 18,Sideshow Releasing,2025-08-31
+182,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-08-31
+183,Bring Them Down,"$336,339",Feb 7,MUBI,2025-08-31
+184,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-08-31
+185,Trust,"$330,899",Aug 22,Republic Pictures,2025-08-31
+186,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-08-31
+187,Hell House LLC: Lineage,"$308,826",Aug 20,Iconic Events Releasing,2025-08-31
+188,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-08-31
+189,Caught by the Tides,"$291,307",May 9,Janus Films,2025-08-31
+190,Parthenope,"$289,303",Feb 7,A24,2025-08-31
+191,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-08-31
+192,Witchboard,"$267,765",Aug 15,Atlas Distribution Company,2025-08-31
+193,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-08-31
+194,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-08-31
+195,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-08-31
+196,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-08-31
+197,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-08-31
+198,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-08-31
+199,Liza: A Truly Terrific Absolutely True Story,"$222,775",Jan 24,Zeitgeist Films,2025-08-31
+200,Turnstile: Never Enough,"$220,315",Jun 5,Sumerian Films,2025-08-31
+201,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-09-04
+202,Lilo & Stitch,"$423,513,723",May 23,Walt Disney Studios Motion Pictures,2025-09-04
+203,Superman,"$352,199,637",Jul 11,Warner Bros.,2025-09-04
+204,Jurassic World: Rebirth,"$338,488,130",Jul 2,Universal Pictures,2025-09-04
+205,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-09-04
+206,The Fantastic Four: First Steps,"$267,133,222",Jul 25,Walt Disney Studios Motion Pictures,2025-09-04
+207,How to Train Your Dragon,"$262,952,940",Jun 13,Universal Pictures International (UPI),2025-09-04
+208,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-09-04
+209,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-09-04
+210,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-09-04
+211,F1: The Movie,"$188,455,663",Jun 27,Warner Bros.,2025-09-04
+212,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-09-04
+213,Weapons,"$137,140,178",Aug 8,Warner Bros.,2025-09-04
+214,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-09-04
+215,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-09-04
+216,Freakier Friday,"$83,688,227",Aug 8,Walt Disney Studios Motion Pictures,2025-09-04
+217,The Bad Guys 2,"$75,156,860",Aug 1,Universal Pictures,2025-09-04
+218,Elio,"$72,977,738",Jun 20,Walt Disney Studios Motion Pictures,2025-09-04
+219,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-09-04
+220,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-09-04
+221,The King of Kings,"$60,270,106",Apr 11,Angel,2025-09-04
+222,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-09-04
+223,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-09-04
+224,The Naked Gun,"$51,641,443",Aug 1,Paramount Pictures International,2025-09-04
+225,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-09-04
+226,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-09-04
+227,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-09-04
+228,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-09-04
+229,The Monkey,"$39,724,909",Feb 21,Neon,2025-09-04
+230,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-09-04
+231,Materialists,"$36,503,614",Jun 13,A24,2025-09-04
+232,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-09-04
+233,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-09-04
+234,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-09-04
+235,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-09-04
+236,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-09-04
+237,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-09-04
+238,Warfare,"$26,000,309",Apr 11,A24,2025-09-04
+239,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-09-04
+240,Ne Zha 2,"$23,322,209",Feb 14,CMC Pictures,2025-09-04
+241,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-09-04
+242,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-09-04
+243,Together,"$21,169,945",Jul 30,Neon,2025-09-04
+244,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-09-04
+245,Nobody 2,"$21,000,850",Aug 15,Universal Pictures International (UPI),2025-09-04
+246,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-09-04
+247,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-09-04
+248,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-09-04
+249,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-09-04
+250,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-09-04
+251,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-09-04
+252,Bring Her Back,"$19,323,752",May 30,A24,2025-09-04
+253,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-09-04
+254,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-09-04
+255,Friendship,"$16,228,274",May 9,A24,2025-09-04
+256,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-09-04
+257,The Last Rodeo,"$15,201,659",May 23,Angel,2025-09-04
+258,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-09-04
+259,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-09-04
+260,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-09-04
+261,Jaws2025 Re-release (50th Anniversary),"$11,117,035",Aug 29,-,2025-09-04
+262,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-09-04
+263,Eddington,"$10,109,484",Jul 18,A24,2025-09-04
+264,Caught Stealing,"$9,600,000",Aug 29,Sony Pictures Releasing,2025-09-04
+265,The Roses,"$9,064,370",Aug 29,Walt Disney Studios Motion Pictures,2025-09-04
+266,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-09-04
+267,Sketch,"$8,064,614",Aug 6,Angel,2025-09-04
+268,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-09-04
+269,Presence,"$6,900,044",Jan 24,Neon,2025-09-04
+270,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-09-04
+271,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-09-04
+272,The Last Supper,"$6,564,857",Mar 14,-,2025-09-04
+273,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-09-04
+274,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-09-04
+275,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-09-04
+276,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-09-04
+277,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-09-04
+278,Honey Don't!,"$5,594,920",Aug 22,Focus Features,2025-09-04
+279,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-09-04
+280,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-09-04
+281,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-09-04
+282,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-09-04
+283,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-09-04
+284,Shin Godzilla2025 Re-release,"$3,896,765",Aug 14,GKIDS,2025-09-04
+285,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-09-04
+286,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-09-04
+287,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-09-04
+288,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-09-04
+289,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-09-04
+290,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-09-04
+291,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-09-04
+292,Relay,"$3,140,011",Aug 22,Bleecker Street Media,2025-09-04
+293,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-09-04
+294,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-09-04
+295,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-09-04
+296,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-09-04
+297,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-09-04
+298,No Other Land,"$2,549,422",Jan 31,-,2025-09-04
+299,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-09-04
+300,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-09-04
+301,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-09-04
+302,The Toxic Avenger,"$2,322,401",Aug 29,Iconic Events Releasing,2025-09-04
+303,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-09-04
+304,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-09-04
+305,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-09-04
+306,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-09-04
+307,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-09-04
+308,"Oh, Hi!","$2,078,329",Jul 25,Sony Pictures Classics,2025-09-04
+309,Opus,"$1,993,397",Mar 14,A24,2025-09-04
+310,Jane Austen Wrecked My Life,"$1,901,673",May 23,Sony Pictures Classics,2025-09-04
+311,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-09-04
+312,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-09-04
+313,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-09-04
+314,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-09-04
+315,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-09-04
+316,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-09-04
+317,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-09-04
+318,The Home,"$1,576,983",Jul 25,Lionsgate,2025-09-04
+319,Eden,"$1,519,579",Aug 22,Vertical Entertainment,2025-09-04
+320,Highest 2 Lowest,"$1,500,000",Aug 15,A24,2025-09-04
+321,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-09-04
+322,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-09-04
+323,"It's Never Over, Jeff Buckley","$1,326,092",Aug 8,Magnolia Pictures,2025-09-04
+324,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-09-04
+325,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-09-04
+326,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-09-04
+327,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-09-04
+328,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-09-04
+329,Housefull 5,"$1,152,549",Jun 6,-,2025-09-04
+330,Ash,"$1,083,743",Mar 21,Shudder,2025-09-04
+331,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-09-04
+332,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-09-04
+333,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-09-04
+334,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-09-04
+335,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-09-04
+336,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-09-04
+337,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-09-04
+338,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-09-04
+339,CatVideoFest 2025,"$906,954",Aug 1,Oscilloscope,2025-09-04
+340,My Mother's Wedding,"$897,790",Aug 8,Vertical Entertainment,2025-09-04
+341,Rosario,"$866,466",May 2,Mucho Mas Media,2025-09-04
+342,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-09-04
+343,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-09-04
+344,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-09-04
+345,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-09-04
+346,Guru Nanak Jahaz,"$793,000",May 2,-,2025-09-04
+347,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-09-04
+348,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-09-04
+349,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-09-04
+350,In the Mood for Love25th Anniversary,"$751,637",Jun 27,Janus Films,2025-09-04
+351,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-09-04
+352,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-09-04
+353,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-09-04
+354,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-09-04
+355,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-09-04
+356,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-09-04
+357,Don't Let's Go to the Dogs Tonight,"$629,054",Jul 11,Sony Pictures Releasing,2025-09-04
+358,East of Wall,"$613,442",Aug 15,Sony Pictures Classics,2025-09-04
+359,The Colors Within,"$557,116",Jan 23,GKIDS,2025-09-04
+360,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-09-04
+361,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-09-04
+362,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-09-04
+363,The Ritual,"$527,118",Jun 6,XYZ Films,2025-09-04
+364,Eephus,"$525,749",Mar 7,Music Box Films,2025-09-04
+365,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-09-04
+366,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-09-04
+367,Raising the Bar: The Alma Richards Story,"$481,327",Apr 25,-,2025-09-04
+368,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-09-04
+369,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-09-04
+370,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-09-04
+371,House on Eden,"$455,830",Jul 25,IFC Films,2025-09-04
+372,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-09-04
+373,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-09-04
+374,The Last Class,"$425,552",Jun 27,Abramorama,2025-09-04
+375,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-09-04
+376,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-09-04
+377,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-09-04
+378,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-09-04
+379,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-09-04
+380,Trust,"$368,186",Aug 22,Republic Pictures,2025-09-04
+381,Splitsville,"$362,191",Aug 22,Neon,2025-09-04
+382,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-09-04
+383,Pavements,"$349,640",May 2,Utopia,2025-09-04
+384,Cloud,"$347,826",Jul 18,Sideshow Releasing,2025-09-04
+385,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-09-04
+386,Bring Them Down,"$336,339",Feb 7,MUBI,2025-09-04
+387,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-09-04
+388,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-09-04
+389,Hell House LLC: Lineage,"$308,826",Aug 20,Iconic Events Releasing,2025-09-04
+390,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-09-04
+391,Caught by the Tides,"$291,307",May 9,Janus Films,2025-09-04
+392,Parthenope,"$289,303",Feb 7,A24,2025-09-04
+393,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-09-04
+394,Witchboard,"$269,250",Aug 15,Atlas Distribution Company,2025-09-04
+395,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-09-04
+396,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-09-04
+397,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-09-04
+398,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-09-04
+399,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-09-04
+400,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-09-04
+401,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-09-04
+402,Lilo & Stitch,"$423,513,723",May 23,Walt Disney Studios Motion Pictures,2025-09-04
+403,Superman,"$352,199,637",Jul 11,Warner Bros.,2025-09-04
+404,Jurassic World: Rebirth,"$338,488,130",Jul 2,Universal Pictures,2025-09-04
+405,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-09-04
+406,The Fantastic Four: First Steps,"$267,133,222",Jul 25,Walt Disney Studios Motion Pictures,2025-09-04
+407,How to Train Your Dragon,"$262,952,940",Jun 13,Universal Pictures International (UPI),2025-09-04
+408,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-09-04
+409,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-09-04
+410,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-09-04
+411,F1: The Movie,"$188,455,663",Jun 27,Warner Bros.,2025-09-04
+412,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-09-04
+413,Weapons,"$137,140,178",Aug 8,Warner Bros.,2025-09-04
+414,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-09-04
+415,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-09-04
+416,Freakier Friday,"$83,688,227",Aug 8,Walt Disney Studios Motion Pictures,2025-09-04
+417,The Bad Guys 2,"$75,156,860",Aug 1,Universal Pictures,2025-09-04
+418,Elio,"$72,977,738",Jun 20,Walt Disney Studios Motion Pictures,2025-09-04
+419,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-09-04
+420,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-09-04
+421,The King of Kings,"$60,270,106",Apr 11,Angel,2025-09-04
+422,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-09-04
+423,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-09-04
+424,The Naked Gun,"$51,641,443",Aug 1,Paramount Pictures International,2025-09-04
+425,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-09-04
+426,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-09-04
+427,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-09-04
+428,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-09-04
+429,The Monkey,"$39,724,909",Feb 21,Neon,2025-09-04
+430,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-09-04
+431,Materialists,"$36,503,614",Jun 13,A24,2025-09-04
+432,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-09-04
+433,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-09-04
+434,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-09-04
+435,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-09-04
+436,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-09-04
+437,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-09-04
+438,Warfare,"$26,000,309",Apr 11,A24,2025-09-04
+439,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-09-04
+440,Ne Zha 2,"$23,322,209",Feb 14,CMC Pictures,2025-09-04
+441,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-09-04
+442,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-09-04
+443,Together,"$21,169,945",Jul 30,Neon,2025-09-04
+444,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-09-04
+445,Nobody 2,"$21,000,850",Aug 15,Universal Pictures International (UPI),2025-09-04
+446,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-09-04
+447,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-09-04
+448,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-09-04
+449,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-09-04
+450,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-09-04
+451,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-09-04
+452,Bring Her Back,"$19,323,752",May 30,A24,2025-09-04
+453,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-09-04
+454,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-09-04
+455,Friendship,"$16,228,274",May 9,A24,2025-09-04
+456,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-09-04
+457,The Last Rodeo,"$15,201,659",May 23,Angel,2025-09-04
+458,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-09-04
+459,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-09-04
+460,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-09-04
+461,Jaws2025 Re-release (50th Anniversary),"$11,117,035",Aug 29,-,2025-09-04
+462,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-09-04
+463,Eddington,"$10,109,484",Jul 18,A24,2025-09-04
+464,Caught Stealing,"$9,600,000",Aug 29,Sony Pictures Releasing,2025-09-04
+465,The Roses,"$9,064,370",Aug 29,Walt Disney Studios Motion Pictures,2025-09-04
+466,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-09-04
+467,Sketch,"$8,064,614",Aug 6,Angel,2025-09-04
+468,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-09-04
+469,Presence,"$6,900,044",Jan 24,Neon,2025-09-04
+470,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-09-04
+471,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-09-04
+472,The Last Supper,"$6,564,857",Mar 14,-,2025-09-04
+473,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-09-04
+474,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-09-04
+475,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-09-04
+476,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-09-04
+477,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-09-04
+478,Honey Don't!,"$5,594,920",Aug 22,Focus Features,2025-09-04
+479,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-09-04
+480,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-09-04
+481,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-09-04
+482,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-09-04
+483,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-09-04
+484,Shin Godzilla2025 Re-release,"$3,896,765",Aug 14,GKIDS,2025-09-04
+485,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-09-04
+486,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-09-04
+487,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-09-04
+488,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-09-04
+489,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-09-04
+490,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-09-04
+491,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-09-04
+492,Relay,"$3,140,011",Aug 22,Bleecker Street Media,2025-09-04
+493,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-09-04
+494,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-09-04
+495,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-09-04
+496,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-09-04
+497,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-09-04
+498,No Other Land,"$2,549,422",Jan 31,-,2025-09-04
+499,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-09-04
+500,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-09-04
+501,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-09-04
+502,The Toxic Avenger,"$2,322,401",Aug 29,Iconic Events Releasing,2025-09-04
+503,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-09-04
+504,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-09-04
+505,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-09-04
+506,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-09-04
+507,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-09-04
+508,"Oh, Hi!","$2,078,329",Jul 25,Sony Pictures Classics,2025-09-04
+509,Opus,"$1,993,397",Mar 14,A24,2025-09-04
+510,Jane Austen Wrecked My Life,"$1,901,673",May 23,Sony Pictures Classics,2025-09-04
+511,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-09-04
+512,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-09-04
+513,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-09-04
+514,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-09-04
+515,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-09-04
+516,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-09-04
+517,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-09-04
+518,The Home,"$1,576,983",Jul 25,Lionsgate,2025-09-04
+519,Eden,"$1,519,579",Aug 22,Vertical Entertainment,2025-09-04
+520,Highest 2 Lowest,"$1,500,000",Aug 15,A24,2025-09-04
+521,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-09-04
+522,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-09-04
+523,"It's Never Over, Jeff Buckley","$1,326,092",Aug 8,Magnolia Pictures,2025-09-04
+524,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-09-04
+525,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-09-04
+526,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-09-04
+527,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-09-04
+528,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-09-04
+529,Housefull 5,"$1,152,549",Jun 6,-,2025-09-04
+530,Ash,"$1,083,743",Mar 21,Shudder,2025-09-04
+531,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-09-04
+532,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-09-04
+533,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-09-04
+534,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-09-04
+535,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-09-04
+536,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-09-04
+537,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-09-04
+538,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-09-04
+539,CatVideoFest 2025,"$906,954",Aug 1,Oscilloscope,2025-09-04
+540,My Mother's Wedding,"$897,790",Aug 8,Vertical Entertainment,2025-09-04
+541,Rosario,"$866,466",May 2,Mucho Mas Media,2025-09-04
+542,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-09-04
+543,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-09-04
+544,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-09-04
+545,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-09-04
+546,Guru Nanak Jahaz,"$793,000",May 2,-,2025-09-04
+547,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-09-04
+548,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-09-04
+549,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-09-04
+550,In the Mood for Love25th Anniversary,"$751,637",Jun 27,Janus Films,2025-09-04
+551,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-09-04
+552,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-09-04
+553,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-09-04
+554,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-09-04
+555,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-09-04
+556,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-09-04
+557,Don't Let's Go to the Dogs Tonight,"$629,054",Jul 11,Sony Pictures Releasing,2025-09-04
+558,East of Wall,"$613,442",Aug 15,Sony Pictures Classics,2025-09-04
+559,The Colors Within,"$557,116",Jan 23,GKIDS,2025-09-04
+560,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-09-04
+561,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-09-04
+562,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-09-04
+563,The Ritual,"$527,118",Jun 6,XYZ Films,2025-09-04
+564,Eephus,"$525,749",Mar 7,Music Box Films,2025-09-04
+565,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-09-04
+566,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-09-04
+567,Raising the Bar: The Alma Richards Story,"$481,327",Apr 25,-,2025-09-04
+568,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-09-04
+569,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-09-04
+570,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-09-04
+571,House on Eden,"$455,830",Jul 25,IFC Films,2025-09-04
+572,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-09-04
+573,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-09-04
+574,The Last Class,"$425,552",Jun 27,Abramorama,2025-09-04
+575,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-09-04
+576,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-09-04
+577,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-09-04
+578,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-09-04
+579,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-09-04
+580,Trust,"$368,186",Aug 22,Republic Pictures,2025-09-04
+581,Splitsville,"$362,191",Aug 22,Neon,2025-09-04
+582,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-09-04
+583,Pavements,"$349,640",May 2,Utopia,2025-09-04
+584,Cloud,"$347,826",Jul 18,Sideshow Releasing,2025-09-04
+585,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-09-04
+586,Bring Them Down,"$336,339",Feb 7,MUBI,2025-09-04
+587,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-09-04
+588,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-09-04
+589,Hell House LLC: Lineage,"$308,826",Aug 20,Iconic Events Releasing,2025-09-04
+590,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-09-04
+591,Caught by the Tides,"$291,307",May 9,Janus Films,2025-09-04
+592,Parthenope,"$289,303",Feb 7,A24,2025-09-04
+593,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-09-04
+594,Witchboard,"$269,250",Aug 15,Atlas Distribution Company,2025-09-04
+595,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-09-04
+596,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-09-04
+597,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-09-04
+598,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-09-04
+599,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-09-04
+600,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-09-04
+601,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-09-04
+602,Lilo & Stitch,"$423,513,723",May 23,Walt Disney Studios Motion Pictures,2025-09-04
+603,Superman,"$352,199,637",Jul 11,Warner Bros.,2025-09-04
+604,Jurassic World: Rebirth,"$338,488,130",Jul 2,Universal Pictures,2025-09-04
+605,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-09-04
+606,The Fantastic Four: First Steps,"$267,133,222",Jul 25,Walt Disney Studios Motion Pictures,2025-09-04
+607,How to Train Your Dragon,"$262,952,940",Jun 13,Universal Pictures International (UPI),2025-09-04
+608,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-09-04
+609,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-09-04
+610,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-09-04
+611,F1: The Movie,"$188,455,663",Jun 27,Warner Bros.,2025-09-04
+612,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-09-04
+613,Weapons,"$137,140,178",Aug 8,Warner Bros.,2025-09-04
+614,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-09-04
+615,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-09-04
+616,Freakier Friday,"$83,688,227",Aug 8,Walt Disney Studios Motion Pictures,2025-09-04
+617,The Bad Guys 2,"$75,156,860",Aug 1,Universal Pictures,2025-09-04
+618,Elio,"$72,977,738",Jun 20,Walt Disney Studios Motion Pictures,2025-09-04
+619,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-09-04
+620,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-09-04
+621,The King of Kings,"$60,270,106",Apr 11,Angel,2025-09-04
+622,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-09-04
+623,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-09-04
+624,The Naked Gun,"$51,641,443",Aug 1,Paramount Pictures International,2025-09-04
+625,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-09-04
+626,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-09-04
+627,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-09-04
+628,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-09-04
+629,The Monkey,"$39,724,909",Feb 21,Neon,2025-09-04
+630,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-09-04
+631,Materialists,"$36,503,614",Jun 13,A24,2025-09-04
+632,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-09-04
+633,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-09-04
+634,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-09-04
+635,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-09-04
+636,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-09-04
+637,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-09-04
+638,Warfare,"$26,000,309",Apr 11,A24,2025-09-04
+639,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-09-04
+640,Ne Zha 2,"$23,322,209",Feb 14,CMC Pictures,2025-09-04
+641,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-09-04
+642,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-09-04
+643,Together,"$21,169,945",Jul 30,Neon,2025-09-04
+644,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-09-04
+645,Nobody 2,"$21,000,850",Aug 15,Universal Pictures International (UPI),2025-09-04
+646,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-09-04
+647,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-09-04
+648,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-09-04
+649,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-09-04
+650,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-09-04
+651,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-09-04
+652,Bring Her Back,"$19,323,752",May 30,A24,2025-09-04
+653,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-09-04
+654,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-09-04
+655,Friendship,"$16,228,274",May 9,A24,2025-09-04
+656,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-09-04
+657,The Last Rodeo,"$15,201,659",May 23,Angel,2025-09-04
+658,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-09-04
+659,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-09-04
+660,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-09-04
+661,Jaws2025 Re-release (50th Anniversary),"$11,117,035",Aug 29,-,2025-09-04
+662,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-09-04
+663,Eddington,"$10,109,484",Jul 18,A24,2025-09-04
+664,Caught Stealing,"$9,600,000",Aug 29,Sony Pictures Releasing,2025-09-04
+665,The Roses,"$9,064,370",Aug 29,Walt Disney Studios Motion Pictures,2025-09-04
+666,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-09-04
+667,Sketch,"$8,064,614",Aug 6,Angel,2025-09-04
+668,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-09-04
+669,Presence,"$6,900,044",Jan 24,Neon,2025-09-04
+670,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-09-04
+671,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-09-04
+672,The Last Supper,"$6,564,857",Mar 14,-,2025-09-04
+673,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-09-04
+674,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-09-04
+675,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-09-04
+676,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-09-04
+677,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-09-04
+678,Honey Don't!,"$5,594,920",Aug 22,Focus Features,2025-09-04
+679,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-09-04
+680,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-09-04
+681,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-09-04
+682,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-09-04
+683,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-09-04
+684,Shin Godzilla2025 Re-release,"$3,896,765",Aug 14,GKIDS,2025-09-04
+685,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-09-04
+686,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-09-04
+687,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-09-04
+688,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-09-04
+689,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-09-04
+690,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-09-04
+691,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-09-04
+692,Relay,"$3,140,011",Aug 22,Bleecker Street Media,2025-09-04
+693,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-09-04
+694,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-09-04
+695,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-09-04
+696,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-09-04
+697,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-09-04
+698,No Other Land,"$2,549,422",Jan 31,-,2025-09-04
+699,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-09-04
+700,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-09-04
+701,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-09-04
+702,The Toxic Avenger,"$2,322,401",Aug 29,Iconic Events Releasing,2025-09-04
+703,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-09-04
+704,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-09-04
+705,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-09-04
+706,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-09-04
+707,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-09-04
+708,"Oh, Hi!","$2,078,329",Jul 25,Sony Pictures Classics,2025-09-04
+709,Opus,"$1,993,397",Mar 14,A24,2025-09-04
+710,Jane Austen Wrecked My Life,"$1,901,673",May 23,Sony Pictures Classics,2025-09-04
+711,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-09-04
+712,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-09-04
+713,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-09-04
+714,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-09-04
+715,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-09-04
+716,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-09-04
+717,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-09-04
+718,The Home,"$1,576,983",Jul 25,Lionsgate,2025-09-04
+719,Eden,"$1,519,579",Aug 22,Vertical Entertainment,2025-09-04
+720,Highest 2 Lowest,"$1,500,000",Aug 15,A24,2025-09-04
+721,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-09-04
+722,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-09-04
+723,"It's Never Over, Jeff Buckley","$1,326,092",Aug 8,Magnolia Pictures,2025-09-04
+724,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-09-04
+725,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-09-04
+726,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-09-04
+727,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-09-04
+728,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-09-04
+729,Housefull 5,"$1,152,549",Jun 6,-,2025-09-04
+730,Ash,"$1,083,743",Mar 21,Shudder,2025-09-04
+731,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-09-04
+732,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-09-04
+733,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-09-04
+734,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-09-04
+735,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-09-04
+736,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-09-04
+737,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-09-04
+738,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-09-04
+739,CatVideoFest 2025,"$906,954",Aug 1,Oscilloscope,2025-09-04
+740,My Mother's Wedding,"$897,790",Aug 8,Vertical Entertainment,2025-09-04
+741,Rosario,"$866,466",May 2,Mucho Mas Media,2025-09-04
+742,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-09-04
+743,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-09-04
+744,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-09-04
+745,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-09-04
+746,Guru Nanak Jahaz,"$793,000",May 2,-,2025-09-04
+747,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-09-04
+748,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-09-04
+749,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-09-04
+750,In the Mood for Love25th Anniversary,"$751,637",Jun 27,Janus Films,2025-09-04
+751,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-09-04
+752,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-09-04
+753,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-09-04
+754,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-09-04
+755,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-09-04
+756,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-09-04
+757,Don't Let's Go to the Dogs Tonight,"$629,054",Jul 11,Sony Pictures Releasing,2025-09-04
+758,East of Wall,"$613,442",Aug 15,Sony Pictures Classics,2025-09-04
+759,The Colors Within,"$557,116",Jan 23,GKIDS,2025-09-04
+760,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-09-04
+761,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-09-04
+762,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-09-04
+763,The Ritual,"$527,118",Jun 6,XYZ Films,2025-09-04
+764,Eephus,"$525,749",Mar 7,Music Box Films,2025-09-04
+765,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-09-04
+766,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-09-04
+767,Raising the Bar: The Alma Richards Story,"$481,327",Apr 25,-,2025-09-04
+768,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-09-04
+769,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-09-04
+770,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-09-04
+771,House on Eden,"$455,830",Jul 25,IFC Films,2025-09-04
+772,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-09-04
+773,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-09-04
+774,The Last Class,"$425,552",Jun 27,Abramorama,2025-09-04
+775,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-09-04
+776,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-09-04
+777,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-09-04
+778,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-09-04
+779,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-09-04
+780,Trust,"$368,186",Aug 22,Republic Pictures,2025-09-04
+781,Splitsville,"$362,191",Aug 22,Neon,2025-09-04
+782,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-09-04
+783,Pavements,"$349,640",May 2,Utopia,2025-09-04
+784,Cloud,"$347,826",Jul 18,Sideshow Releasing,2025-09-04
+785,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-09-04
+786,Bring Them Down,"$336,339",Feb 7,MUBI,2025-09-04
+787,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-09-04
+788,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-09-04
+789,Hell House LLC: Lineage,"$308,826",Aug 20,Iconic Events Releasing,2025-09-04
+790,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-09-04
+791,Caught by the Tides,"$291,307",May 9,Janus Films,2025-09-04
+792,Parthenope,"$289,303",Feb 7,A24,2025-09-04
+793,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-09-04
+794,Witchboard,"$269,250",Aug 15,Atlas Distribution Company,2025-09-04
+795,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-09-04
+796,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-09-04
+797,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-09-04
+798,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-09-04
+799,Summer Wars2025 Re-release (4K Restoration),"$245,265",Jul 27,-,2025-09-04
+800,Peter Pan's Neverland Nightmare,"$230,515",Jan 13,Iconic Events Releasing,2025-09-04
+801,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-09-05
+802,Lilo & Stitch,"$423,537,398",May 23,Walt Disney Studios Motion Pictures,2025-09-05
+803,Superman,"$352,302,360",Jul 11,Warner Bros.,2025-09-05
+804,Jurassic World: Rebirth,"$338,532,885",Jul 2,Universal Pictures,2025-09-05
+805,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-09-05
+806,The Fantastic Four: First Steps,"$267,381,321",Jul 25,Walt Disney Studios Motion Pictures,2025-09-05
+807,How to Train Your Dragon,"$262,958,100",Jun 13,Universal Pictures International (UPI),2025-09-05
+808,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-09-05
+809,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-09-05
+810,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-09-05
+811,F1: The Movie,"$188,513,826",Jun 27,Warner Bros.,2025-09-05
+812,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-09-05
+813,Weapons,"$137,674,692",Aug 8,Warner Bros.,2025-09-05
+814,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-09-05
+815,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-09-05
+816,Freakier Friday,"$84,013,679",Aug 8,Walt Disney Studios Motion Pictures,2025-09-05
+817,The Bad Guys 2,"$75,259,845",Aug 1,Universal Pictures,2025-09-05
+818,Elio,"$72,979,001",Jun 20,Walt Disney Studios Motion Pictures,2025-09-05
+819,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-09-05
+820,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-09-05
+821,The King of Kings,"$60,270,106",Apr 11,Angel,2025-09-05
+822,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-09-05
+823,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-09-05
+824,The Naked Gun,"$51,726,416",Aug 1,Paramount Pictures International,2025-09-05
+825,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-09-05
+826,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-09-05
+827,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-09-05
+828,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-09-05
+829,The Monkey,"$39,724,909",Feb 21,Neon,2025-09-05
+830,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-09-05
+831,Materialists,"$36,503,614",Jun 13,A24,2025-09-05
+832,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-09-05
+833,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-09-05
+834,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-09-05
+835,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-09-05
+836,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-09-05
+837,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-09-05
+838,Warfare,"$26,000,309",Apr 11,A24,2025-09-05
+839,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-09-05
+840,Ne Zha 2,"$23,322,209",Feb 14,CMC Pictures,2025-09-05
+841,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-09-05
+842,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-09-05
+843,Together,"$21,221,706",Jul 30,Neon,2025-09-05
+844,Nobody 2,"$21,080,280",Aug 15,Universal Pictures International (UPI),2025-09-05
+845,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-09-05
+846,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-09-05
+847,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-09-05
+848,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-09-05
+849,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-09-05
+850,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-09-05
+851,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-09-05
+852,Bring Her Back,"$19,323,752",May 30,A24,2025-09-05
+853,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-09-05
+854,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-09-05
+855,Friendship,"$16,228,274",May 9,A24,2025-09-05
+856,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-09-05
+857,The Last Rodeo,"$15,201,659",May 23,Angel,2025-09-05
+858,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-09-05
+859,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-09-05
+860,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-09-05
+861,Jaws2025 Re-release (50th Anniversary),"$11,389,945",Aug 29,-,2025-09-05
+862,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-09-05
+863,Eddington,"$10,109,484",Jul 18,A24,2025-09-05
+864,The Roses,"$9,484,311",Aug 29,Walt Disney Studios Motion Pictures,2025-09-05
+865,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-09-05
+866,Sketch,"$8,071,322",Aug 6,Angel,2025-09-05
+867,Caught Stealing,"$7,850,000",Aug 29,Sony Pictures Releasing,2025-09-05
+868,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-09-05
+869,Presence,"$6,900,044",Jan 24,Neon,2025-09-05
+870,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-09-05
+871,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-09-05
+872,The Last Supper,"$6,564,857",Mar 14,-,2025-09-05
+873,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-09-05
+874,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-09-05
+875,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-09-05
+876,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-09-05
+877,Honey Don't!,"$5,649,965",Aug 22,Focus Features,2025-09-05
+878,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-09-05
+879,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-09-05
+880,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-09-05
+881,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-09-05
+882,Shin Godzilla2025 Re-release,"$4,042,146",Aug 14,GKIDS,2025-09-05
+883,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-09-05
+884,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-09-05
+885,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-09-05
+886,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-09-05
+887,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-09-05
+888,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-09-05
+889,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-09-05
+890,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-09-05
+891,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-09-05
+892,Relay,"$3,164,481",Aug 22,Bleecker Street Media,2025-09-05
+893,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-09-05
+894,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-09-05
+895,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-09-05
+896,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-09-05
+897,The Toxic Avenger,"$2,626,518",Aug 29,Iconic Events Releasing,2025-09-05
+898,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-09-05
+899,No Other Land,"$2,549,422",Jan 31,-,2025-09-05
+900,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-09-05
+901,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-09-05
+902,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-09-05
+903,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-09-05
+904,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-09-05
+905,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-09-05
+906,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-09-05
+907,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-09-05
+908,"Oh, Hi!","$2,075,316",Jul 25,Sony Pictures Classics,2025-09-05
+909,Opus,"$1,993,397",Mar 14,A24,2025-09-05
+910,Jane Austen Wrecked My Life,"$1,900,978",May 23,Sony Pictures Classics,2025-09-05
+911,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-09-05
+912,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-09-05
+913,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-09-05
+914,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-09-05
+915,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-09-05
+916,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-09-05
+917,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-09-05
+918,The Home,"$1,576,983",Jul 25,Lionsgate,2025-09-05
+919,Eden,"$1,519,579",Aug 22,Vertical Entertainment,2025-09-05
+920,Highest 2 Lowest,"$1,500,000",Aug 15,A24,2025-09-05
+921,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-09-05
+922,"It's Never Over, Jeff Buckley","$1,352,813",Aug 8,Magnolia Pictures,2025-09-05
+923,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-09-05
+924,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-09-05
+925,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-09-05
+926,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-09-05
+927,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-09-05
+928,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-09-05
+929,Housefull 5,"$1,152,549",Jun 6,-,2025-09-05
+930,Ash,"$1,083,743",Mar 21,Shudder,2025-09-05
+931,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-09-05
+932,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-09-05
+933,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-09-05
+934,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-09-05
+935,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-09-05
+936,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-09-05
+937,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-09-05
+938,CatVideoFest 2025,"$914,122",Aug 1,Oscilloscope,2025-09-05
+939,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-09-05
+940,My Mother's Wedding,"$897,790",Aug 8,Vertical Entertainment,2025-09-05
+941,Rosario,"$866,466",May 2,Mucho Mas Media,2025-09-05
+942,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-09-05
+943,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-09-05
+944,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-09-05
+945,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-09-05
+946,Guru Nanak Jahaz,"$793,000",May 2,-,2025-09-05
+947,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-09-05
+948,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-09-05
+949,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-09-05
+950,In the Mood for Love25th Anniversary,"$751,637",Jun 27,Janus Films,2025-09-05
+951,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-09-05
+952,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-09-05
+953,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-09-05
+954,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-09-05
+955,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-09-05
+956,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-09-05
+957,Don't Let's Go to the Dogs Tonight,"$627,923",Jul 11,Sony Pictures Releasing,2025-09-05
+958,East of Wall,"$601,118",Aug 15,Sony Pictures Classics,2025-09-05
+959,The Colors Within,"$557,116",Jan 23,GKIDS,2025-09-05
+960,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-09-05
+961,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-09-05
+962,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-09-05
+963,The Ritual,"$527,118",Jun 6,XYZ Films,2025-09-05
+964,Eephus,"$525,877",Mar 7,Music Box Films,2025-09-05
+965,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-09-05
+966,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-09-05
+967,The Last Class,"$499,730",Jun 27,Abramorama,2025-09-05
+968,Raising the Bar: The Alma Richards Story,"$481,617",Apr 25,-,2025-09-05
+969,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-09-05
+970,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-09-05
+971,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-09-05
+972,House on Eden,"$455,830",Jul 25,IFC Films,2025-09-05
+973,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-09-05
+974,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-09-05
+975,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-09-05
+976,Splitsville,"$416,089",Aug 22,Neon,2025-09-05
+977,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-09-05
+978,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-09-05
+979,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-09-05
+980,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-09-05
+981,Trust,"$368,186",Aug 22,Republic Pictures,2025-09-05
+982,Pavements,"$351,421",May 2,Utopia,2025-09-05
+983,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-09-05
+984,Cloud,"$347,826",Jul 18,Sideshow Releasing,2025-09-05
+985,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-09-05
+986,Bring Them Down,"$336,339",Feb 7,MUBI,2025-09-05
+987,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-09-05
+988,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-09-05
+989,Hell House LLC: Lineage,"$310,031",Aug 20,Iconic Events Releasing,2025-09-05
+990,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-09-05
+991,The Blind: A Special Tribute to Phil Robertson,"$297,165",Aug 31,-,2025-09-05
+992,Caught by the Tides,"$291,307",May 9,Janus Films,2025-09-05
+993,Parthenope,"$289,303",Feb 7,A24,2025-09-05
+994,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-09-05
+995,Witchboard,"$269,300",Aug 15,Atlas Distribution Company,2025-09-05
+996,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-09-05
+997,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-09-05
+998,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-09-05
+999,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-09-05
+1000,Lurker,"$254,608",Aug 22,MUBI,2025-09-05
+1001,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-09-05
+1002,Lilo & Stitch,"$423,537,398",May 23,Walt Disney Studios Motion Pictures,2025-09-05
+1003,Superman,"$352,302,360",Jul 11,Warner Bros.,2025-09-05
+1004,Jurassic World: Rebirth,"$338,532,885",Jul 2,Universal Pictures,2025-09-05
+1005,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-09-05
+1006,The Fantastic Four: First Steps,"$267,381,321",Jul 25,Walt Disney Studios Motion Pictures,2025-09-05
+1007,How to Train Your Dragon,"$262,958,100",Jun 13,Universal Pictures International (UPI),2025-09-05
+1008,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-09-05
+1009,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-09-05
+1010,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-09-05
+1011,F1: The Movie,"$188,513,826",Jun 27,Warner Bros.,2025-09-05
+1012,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-09-05
+1013,Weapons,"$137,674,692",Aug 8,Warner Bros.,2025-09-05
+1014,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-09-05
+1015,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-09-05
+1016,Freakier Friday,"$84,013,679",Aug 8,Walt Disney Studios Motion Pictures,2025-09-05
+1017,The Bad Guys 2,"$75,259,845",Aug 1,Universal Pictures,2025-09-05
+1018,Elio,"$72,979,001",Jun 20,Walt Disney Studios Motion Pictures,2025-09-05
+1019,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-09-05
+1020,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-09-05
+1021,The King of Kings,"$60,270,106",Apr 11,Angel,2025-09-05
+1022,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-09-05
+1023,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-09-05
+1024,The Naked Gun,"$51,726,416",Aug 1,Paramount Pictures International,2025-09-05
+1025,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-09-05
+1026,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-09-05
+1027,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-09-05
+1028,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-09-05
+1029,The Monkey,"$39,724,909",Feb 21,Neon,2025-09-05
+1030,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-09-05
+1031,Materialists,"$36,503,614",Jun 13,A24,2025-09-05
+1032,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-09-05
+1033,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-09-05
+1034,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-09-05
+1035,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-09-05
+1036,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-09-05
+1037,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-09-05
+1038,Warfare,"$26,000,309",Apr 11,A24,2025-09-05
+1039,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-09-05
+1040,Ne Zha 2,"$23,322,209",Feb 14,CMC Pictures,2025-09-05
+1041,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-09-05
+1042,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-09-05
+1043,Together,"$21,221,706",Jul 30,Neon,2025-09-05
+1044,Nobody 2,"$21,080,280",Aug 15,Universal Pictures International (UPI),2025-09-05
+1045,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-09-05
+1046,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-09-05
+1047,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-09-05
+1048,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-09-05
+1049,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-09-05
+1050,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-09-05
+1051,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-09-05
+1052,Bring Her Back,"$19,323,752",May 30,A24,2025-09-05
+1053,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-09-05
+1054,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-09-05
+1055,Friendship,"$16,228,274",May 9,A24,2025-09-05
+1056,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-09-05
+1057,The Last Rodeo,"$15,201,659",May 23,Angel,2025-09-05
+1058,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-09-05
+1059,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-09-05
+1060,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-09-05
+1061,Jaws2025 Re-release (50th Anniversary),"$11,389,945",Aug 29,-,2025-09-05
+1062,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-09-05
+1063,Eddington,"$10,109,484",Jul 18,A24,2025-09-05
+1064,The Roses,"$9,484,311",Aug 29,Walt Disney Studios Motion Pictures,2025-09-05
+1065,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-09-05
+1066,Sketch,"$8,071,322",Aug 6,Angel,2025-09-05
+1067,Caught Stealing,"$7,850,000",Aug 29,Sony Pictures Releasing,2025-09-05
+1068,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-09-05
+1069,Presence,"$6,900,044",Jan 24,Neon,2025-09-05
+1070,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-09-05
+1071,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-09-05
+1072,The Last Supper,"$6,564,857",Mar 14,-,2025-09-05
+1073,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-09-05
+1074,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-09-05
+1075,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-09-05
+1076,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-09-05
+1077,Honey Don't!,"$5,649,965",Aug 22,Focus Features,2025-09-05
+1078,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-09-05
+1079,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-09-05
+1080,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-09-05
+1081,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-09-05
+1082,Shin Godzilla2025 Re-release,"$4,042,146",Aug 14,GKIDS,2025-09-05
+1083,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-09-05
+1084,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-09-05
+1085,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-09-05
+1086,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-09-05
+1087,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-09-05
+1088,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-09-05
+1089,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-09-05
+1090,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-09-05
+1091,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-09-05
+1092,Relay,"$3,164,481",Aug 22,Bleecker Street Media,2025-09-05
+1093,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-09-05
+1094,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-09-05
+1095,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-09-05
+1096,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-09-05
+1097,The Toxic Avenger,"$2,626,518",Aug 29,Iconic Events Releasing,2025-09-05
+1098,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-09-05
+1099,No Other Land,"$2,549,422",Jan 31,-,2025-09-05
+1100,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-09-05
+1101,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-09-05
+1102,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-09-05
+1103,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-09-05
+1104,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-09-05
+1105,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-09-05
+1106,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-09-05
+1107,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-09-05
+1108,"Oh, Hi!","$2,075,316",Jul 25,Sony Pictures Classics,2025-09-05
+1109,Opus,"$1,993,397",Mar 14,A24,2025-09-05
+1110,Jane Austen Wrecked My Life,"$1,900,978",May 23,Sony Pictures Classics,2025-09-05
+1111,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-09-05
+1112,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-09-05
+1113,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-09-05
+1114,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-09-05
+1115,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-09-05
+1116,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-09-05
+1117,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-09-05
+1118,The Home,"$1,576,983",Jul 25,Lionsgate,2025-09-05
+1119,Eden,"$1,519,579",Aug 22,Vertical Entertainment,2025-09-05
+1120,Highest 2 Lowest,"$1,500,000",Aug 15,A24,2025-09-05
+1121,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-09-05
+1122,"It's Never Over, Jeff Buckley","$1,352,813",Aug 8,Magnolia Pictures,2025-09-05
+1123,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-09-05
+1124,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-09-05
+1125,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-09-05
+1126,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-09-05
+1127,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-09-05
+1128,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-09-05
+1129,Housefull 5,"$1,152,549",Jun 6,-,2025-09-05
+1130,Ash,"$1,083,743",Mar 21,Shudder,2025-09-05
+1131,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-09-05
+1132,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-09-05
+1133,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-09-05
+1134,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-09-05
+1135,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-09-05
+1136,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-09-05
+1137,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-09-05
+1138,CatVideoFest 2025,"$914,122",Aug 1,Oscilloscope,2025-09-05
+1139,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-09-05
+1140,My Mother's Wedding,"$897,790",Aug 8,Vertical Entertainment,2025-09-05
+1141,Rosario,"$866,466",May 2,Mucho Mas Media,2025-09-05
+1142,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-09-05
+1143,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-09-05
+1144,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-09-05
+1145,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-09-05
+1146,Guru Nanak Jahaz,"$793,000",May 2,-,2025-09-05
+1147,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-09-05
+1148,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-09-05
+1149,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-09-05
+1150,In the Mood for Love25th Anniversary,"$751,637",Jun 27,Janus Films,2025-09-05
+1151,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-09-05
+1152,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-09-05
+1153,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-09-05
+1154,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-09-05
+1155,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-09-05
+1156,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-09-05
+1157,Don't Let's Go to the Dogs Tonight,"$627,923",Jul 11,Sony Pictures Releasing,2025-09-05
+1158,East of Wall,"$601,118",Aug 15,Sony Pictures Classics,2025-09-05
+1159,The Colors Within,"$557,116",Jan 23,GKIDS,2025-09-05
+1160,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-09-05
+1161,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-09-05
+1162,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-09-05
+1163,The Ritual,"$527,118",Jun 6,XYZ Films,2025-09-05
+1164,Eephus,"$525,877",Mar 7,Music Box Films,2025-09-05
+1165,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-09-05
+1166,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-09-05
+1167,The Last Class,"$499,730",Jun 27,Abramorama,2025-09-05
+1168,Raising the Bar: The Alma Richards Story,"$481,617",Apr 25,-,2025-09-05
+1169,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-09-05
+1170,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-09-05
+1171,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-09-05
+1172,House on Eden,"$455,830",Jul 25,IFC Films,2025-09-05
+1173,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-09-05
+1174,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-09-05
+1175,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-09-05
+1176,Splitsville,"$416,089",Aug 22,Neon,2025-09-05
+1177,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-09-05
+1178,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-09-05
+1179,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-09-05
+1180,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-09-05
+1181,Trust,"$368,186",Aug 22,Republic Pictures,2025-09-05
+1182,Pavements,"$351,421",May 2,Utopia,2025-09-05
+1183,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-09-05
+1184,Cloud,"$347,826",Jul 18,Sideshow Releasing,2025-09-05
+1185,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-09-05
+1186,Bring Them Down,"$336,339",Feb 7,MUBI,2025-09-05
+1187,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-09-05
+1188,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-09-05
+1189,Hell House LLC: Lineage,"$310,031",Aug 20,Iconic Events Releasing,2025-09-05
+1190,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-09-05
+1191,The Blind: A Special Tribute to Phil Robertson,"$297,165",Aug 31,-,2025-09-05
+1192,Caught by the Tides,"$291,307",May 9,Janus Films,2025-09-05
+1193,Parthenope,"$289,303",Feb 7,A24,2025-09-05
+1194,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-09-05
+1195,Witchboard,"$269,300",Aug 15,Atlas Distribution Company,2025-09-05
+1196,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-09-05
+1197,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-09-05
+1198,Wolf Children2025 Re-release (4K Restoration),"$258,252",May 11,GKIDS,2025-09-05
+1199,Bonjour Tristesse,"$256,136",May 2,Greenwich Entertainment,2025-09-05
+1200,Lurker,"$254,608",Aug 22,MUBI,2025-09-05
+1201,A Minecraft Movie,"$423,949,195",Apr 4,Warner Bros.,2025-09-07
+1202,Lilo & Stitch,"$423,554,398",May 23,Walt Disney Studios Motion Pictures,2025-09-07
+1203,Superman,"$352,302,360",Jul 11,Warner Bros.,2025-09-07
+1204,Jurassic World: Rebirth,"$338,532,885",Jul 2,Universal Pictures,2025-09-07
+1205,Sinners,"$278,578,513",Apr 18,Warner Bros.,2025-09-07
+1206,The Fantastic Four: First Steps,"$267,381,321",Jul 25,Walt Disney Studios Motion Pictures,2025-09-07
+1207,How to Train Your Dragon,"$262,958,100",Jun 13,Universal Pictures International (UPI),2025-09-07
+1208,Captain America: Brave New World,"$200,500,001",Feb 14,Walt Disney Studios Motion Pictures,2025-09-07
+1209,Mission: Impossible - The Final Reckoning,"$197,413,515",May 23,Paramount Pictures International,2025-09-07
+1210,Thunderbolts*,"$190,274,328",May 2,Walt Disney Studios Motion Pictures,2025-09-07
+1211,F1: The Movie,"$188,513,826",Jun 27,Warner Bros.,2025-09-07
+1212,Final Destination: Bloodlines,"$138,130,814",May 16,Warner Bros.,2025-09-07
+1213,Weapons,"$137,674,692",Aug 8,Warner Bros.,2025-09-07
+1214,Dog Man,"$97,970,355",Jan 31,Universal Pictures,2025-09-07
+1215,Snow White,"$87,203,963",Mar 21,Walt Disney Studios Motion Pictures,2025-09-07
+1216,Freakier Friday,"$84,973,679",Aug 8,Walt Disney Studios Motion Pictures,2025-09-07
+1217,The Bad Guys 2,"$75,659,845",Aug 1,Universal Pictures,2025-09-07
+1218,Elio,"$72,979,001",Jun 20,Walt Disney Studios Motion Pictures,2025-09-07
+1219,28 Years Later,"$70,446,897",Jun 20,Sony Pictures Releasing,2025-09-07
+1220,The Accountant 2,"$65,523,366",Apr 25,Amazon MGM Studios,2025-09-07
+1221,The King of Kings,"$60,270,106",Apr 11,Angel,2025-09-07
+1222,Ballerina,"$58,051,327",Jun 6,Lionsgate,2025-09-07
+1223,Karate Kid: Legends,"$52,547,391",May 30,Sony Pictures Releasing,2025-09-07
+1224,The Naked Gun,"$51,865,416",Aug 1,Paramount Pictures International,2025-09-07
+1225,One of Them Days,"$50,054,690",Jan 17,Sony Pictures Releasing,2025-09-07
+1226,Mickey 17,"$46,047,147",Mar 7,Warner Bros.,2025-09-07
+1227,Paddington in Peru,"$45,770,312",Feb 14,Sony Pictures Releasing,2025-09-07
+1228,The Amateur,"$40,759,635",Apr 11,20th Century Studios,2025-09-07
+1229,The Monkey,"$39,724,909",Feb 21,Neon,2025-09-07
+1230,A Working Man,"$37,000,711",Mar 28,Amazon MGM Studios,2025-09-07
+1231,Materialists,"$36,503,614",Jun 13,A24,2025-09-07
+1232,Den of Thieves: Pantera,"$36,015,016",Jan 10,Lionsgate,2025-09-07
+1233,The Conjuring: Last Rites,"$34,500,000",Sep 5,Warner Bros.,2025-09-07
+1234,Star Wars: Episode III - Revenge of the Sith20th anniversary,"$34,107,714",Apr 25,Walt Disney Studios Motion Pictures,2025-09-07
+1235,I Know What You Did Last Summer,"$32,165,634",Jul 18,Sony Pictures Releasing,2025-09-07
+1236,Smurfs,"$31,075,170",Jul 18,Paramount Pictures International,2025-09-07
+1237,Heart Eyes,"$30,415,738",Feb 7,Paramount Pictures International,2025-09-07
+1238,Flight Risk,"$29,783,527",Jan 24,Lionsgate,2025-09-07
+1239,Warfare,"$26,000,309",Apr 11,A24,2025-09-07
+1240,M3GAN 2.0,"$24,101,280",Jun 27,Universal Pictures,2025-09-07
+1241,Ne Zha 2,"$23,322,209",Feb 14,CMC Pictures,2025-09-07
+1242,The Woman in the Yard,"$22,405,985",Mar 28,Universal Pictures,2025-09-07
+1243,Black Bag,"$21,474,035",Mar 14,Focus Features,2025-09-07
+1244,Together,"$21,221,706",Jul 30,Neon,2025-09-07
+1245,Nobody 2,"$21,080,280",Aug 15,Universal Pictures International (UPI),2025-09-07
+1246,Last Breath,"$21,051,180",Feb 28,Focus Features,2025-09-07
+1247,Companion,"$20,809,101",Jan 31,Warner Bros.,2025-09-07
+1248,Wolf Man,"$20,707,280",Jan 17,Universal Pictures,2025-09-07
+1249,The Chosen: Last Supper,"$20,257,290",Mar 28,-,2025-09-07
+1250,Until Dawn,"$20,172,192",Apr 25,Screen Gems,2025-09-07
+1251,Novocaine,"$19,861,854",Mar 14,Paramount Pictures International,2025-09-07
+1252,The Phoenician Scheme,"$19,555,015",May 30,Focus Features,2025-09-07
+1253,Bring Her Back,"$19,323,752",May 30,A24,2025-09-07
+1254,KPop Demon Hunters,"$18,000,000",Aug 23,Netflix,2025-09-07
+1255,Drop,"$16,600,805",Apr 11,Universal Pictures International (UPI),2025-09-07
+1256,Friendship,"$16,228,274",May 9,A24,2025-09-07
+1257,Love Hurts,"$15,683,090",Feb 7,Universal Pictures,2025-09-07
+1258,The Last Rodeo,"$15,201,659",May 23,Angel,2025-09-07
+1259,Death of a Unicorn,"$12,899,252",Mar 28,A24,2025-09-07
+1260,The Chosen: Last Supper Part 2,"$12,372,228",Apr 4,-,2025-09-07
+1261,The Chosen: Last Supper Part 3,"$11,742,410",Apr 11,-,2025-09-07
+1262,Jaws2025 Re-release (50th Anniversary),"$11,389,945",Aug 29,-,2025-09-07
+1263,Caught Stealing,"$10,540,000",Aug 29,Sony Pictures Releasing,2025-09-07
+1264,Becoming Led Zeppelin,"$10,403,353",Feb 7,Sony Pictures Classics,2025-09-07
+1265,The Roses,"$10,268,311",Aug 29,Walt Disney Studios Motion Pictures,2025-09-07
+1266,Eddington,"$10,109,484",Jul 18,A24,2025-09-07
+1267,The Day the Earth Blew Up: A Looney Tunes Movie,"$8,875,344",Mar 14,Ketchup Entertainment,2025-09-07
+1268,Sketch,"$8,075,276",Aug 6,Angel,2025-09-07
+1269,Clown in a Cornfield,"$7,251,799",May 9,RLJ Entertainment,2025-09-07
+1270,Presence,"$6,900,044",Jan 24,Neon,2025-09-07
+1271,Princess Mononoke4K Restoration,"$6,851,056",Mar 28,GKIDS,2025-09-07
+1272,The Life of Chuck,"$6,712,600",Jun 6,Neon,2025-09-07
+1273,The Last Supper,"$6,564,857",Mar 14,-,2025-09-07
+1274,The Unbreakable Boy,"$6,443,813",Feb 21,Lionsgate,2025-09-07
+1275,I'm Still Here,"$6,233,517",Jan 17,Sony Pictures Classics,2025-09-07
+1276,Pride & Prejudice20th Anniversary Re-Release,"$6,193,658",Apr 20,Focus Features,2025-09-07
+1277,The Alto Knights,"$6,103,664",Mar 21,Warner Bros.,2025-09-07
+1278,Honey Don't!,"$5,678,965",Aug 22,Focus Features,2025-09-07
+1279,Dan Da Dan: Evil Eye,"$5,637,078",Jun 6,GKIDS,2025-09-07
+1280,Hurry Up Tomorrow,"$5,215,357",May 16,Lionsgate,2025-09-07
+1281,Chhaava,"$4,800,000",Feb 14,Yash Raj Films,2025-09-07
+1282,Brave the Dark,"$4,525,443",Jan 24,Angel,2025-09-07
+1283,Shin Godzilla2025 Re-release,"$4,042,146",Aug 14,GKIDS,2025-09-07
+1284,The Friend,"$3,941,217",Mar 28,Bleecker Street Media,2025-09-07
+1285,Shadow Force,"$3,933,483",May 9,Lionsgate,2025-09-07
+1286,Hamilton2025 Re-release,"$3,900,000",Sep 5,Walt Disney Studios Motion Pictures,2025-09-07
+1287,Colorful Stage! The Movie: A Miku Who Can't Sing,"$3,661,284",Apr 18,GKIDS,2025-09-07
+1288,Fight or Flight,"$3,522,025",May 9,Vertical Entertainment,2025-09-07
+1289,Saiyaara,"$3,359,480",Jul 18,Yash Raj Films USA Inc.,2025-09-07
+1290,The Penguin Lessons,"$3,294,990",Mar 28,Sony Pictures Classics,2025-09-07
+1291,2025 Oscar Nominated Short Films: Live Action,"$3,275,477",Feb 14,ShortsTV,2025-09-07
+1292,JUJUTSU KAISEN: Hidden Inventory/Premature Death - The Movie,"$3,257,365",Jul 16,GKIDS,2025-09-07
+1293,Hell of a Summer,"$3,182,678",Apr 4,Neon,2025-09-07
+1294,Relay,"$3,164,481",Aug 22,Bleecker Street Media,2025-09-07
+1295,War 2,"$3,087,065",Aug 14,Yash Raj Films USA Inc.,2025-09-07
+1296,Rule Breakers,"$2,969,825",Mar 7,Angel,2025-09-07
+1297,Attack on Titan the Movie: The Last Attack,"$2,890,192",Feb 10,Sony Pictures Releasing,2025-09-07
+1298,Dangerous Animals,"$2,738,137",Jun 6,IFC Films,2025-09-07
+1299,The Toxic Avenger,"$2,626,518",Aug 29,Iconic Events Releasing,2025-09-07
+1300,Pink Floyd: Live at Pompeii2025 Re-release,"$2,620,076",Apr 24,Trafalgar Releasing,2025-09-07
+1301,No Other Land,"$2,549,422",Jan 31,-,2025-09-07
+1302,The Legend of Ochi,"$2,475,373",Apr 18,A24,2025-09-07
+1303,Coolie,"$2,450,000",Aug 15,Prathyangira Cinemas,2025-09-07
+1304,"Sorry, Baby","$2,347,089",Jun 27,A24,2025-09-07
+1305,Detective Chinatown 1900,"$2,229,946",Jan 29,CMC Pictures,2025-09-07
+1306,DogmaDogma: Resurrected! A 25th Anniversary Celebration,"$2,193,805",Jun 5,Iconic Events Releasing,2025-09-07
+1307,Night of the Zoopocalypse,"$2,108,907",Mar 7,Viva Pictures,2025-09-07
+1308,Game Changer,"$2,100,000",Jan 10,Shloka Entertainments,2025-09-07
+1309,The Wedding Banquet,"$2,090,228",Apr 18,Bleecker Street Media,2025-09-07
+1310,"Oh, Hi!","$2,075,316",Jul 25,Sony Pictures Classics,2025-09-07
+1311,Opus,"$1,993,397",Mar 14,A24,2025-09-07
+1312,Jane Austen Wrecked My Life,"$1,900,978",May 23,Sony Pictures Classics,2025-09-07
+1313,In the Lost Lands,"$1,870,305",Mar 7,Vertical Entertainment,2025-09-07
+1314,Riff Raff,"$1,862,519",Feb 27,Roadside Attractions,2025-09-07
+1315,Creation of the Gods II: Demon Force,"$1,853,487",Jan 31,Well Go USA Entertainment,2025-09-07
+1316,Kuberaa,"$1,750,000",Jun 20,Prathyangira Cinemas,2025-09-07
+1317,Green and Gold,"$1,719,105",Jan 31,Fathom Events,2025-09-07
+1318,Locked,"$1,632,758",Mar 21,The Avenue Entertainment,2025-09-07
+1319,The Ballad of Wallis Island,"$1,607,835",Mar 28,Focus Features,2025-09-07
+1320,The Home,"$1,576,983",Jul 25,Lionsgate,2025-09-07
+1321,Eden,"$1,519,579",Aug 22,Vertical Entertainment,2025-09-07
+1322,Highest 2 Lowest,"$1,500,000",Aug 15,A24,2025-09-07
+1323,October 8,"$1,368,458",Mar 14,Briarcliff Entertainment,2025-09-07
+1324,"It's Never Over, Jeff Buckley","$1,352,813",Aug 8,Magnolia Pictures,2025-09-07
+1325,The Damned,"$1,342,796",Jan 3,Vertical Entertainment,2025-09-07
+1326,The Surfer,"$1,306,597",May 2,Roadside Attractions,2025-09-07
+1327,My Dead Friend Zoe,"$1,250,703",Feb 28,Briarcliff Entertainment,2025-09-07
+1328,Valiant One,"$1,236,630",Jan 31,Briarcliff Entertainment,2025-09-07
+1329,Mobile Suit Gundam GQuuuuuuX: Beginning,"$1,223,881",Feb 28,GKIDS,2025-09-07
+1330,Magazine Dreams,"$1,166,243",Mar 21,Briarcliff Entertainment,2025-09-07
+1331,Housefull 5,"$1,152,549",Jun 6,-,2025-09-07
+1332,Ash,"$1,083,743",Mar 21,Shudder,2025-09-07
+1333,This Is Spinal Tap41st Anniversary,"$1,069,737",Jul 5,-,2025-09-07
+1334,Brokeback Mountain20th anniversary,"$1,068,055",Jun 20,Focus Features,2025-09-07
+1335,On Swift Horses,"$1,030,558",Apr 25,Sony Pictures Classics,2025-09-07
+1336,The Unholy Trinity,"$996,456",Jun 13,Roadside Attractions,2025-09-07
+1337,HIT: The 3rd Case,"$955,000",May 2,Prathyangira Cinemas,2025-09-07
+1338,Sneaks,"$916,022",Apr 18,Briarcliff Entertainment,2025-09-07
+1339,Seven2025 Re-release,"$915,000",Jan 3,Warner Bros.,2025-09-07
+1340,CatVideoFest 2025,"$914,122",Aug 1,Oscilloscope,2025-09-07
+1341,A Nice Indian Boy,"$908,593",Apr 4,Blue Harbor Entertainment,2025-09-07
+1342,My Mother's Wedding,"$897,790",Aug 8,Vertical Entertainment,2025-09-07
+1343,Rosario,"$866,466",May 2,Mucho Mas Media,2025-09-07
+1344,Secret Mall Apartment,"$849,145",Mar 21,Wheelhouse Creative,2025-09-07
+1345,Black Swan2025 Re-release,"$815,580",Aug 21,Walt Disney Studios Motion Pictures,2025-09-07
+1346,Hard Truths,"$808,122",Jan 10,Bleecker Street Media,2025-09-07
+1347,Cleaner,"$794,091",Feb 21,Quiver Distribution,2025-09-07
+1348,Guru Nanak Jahaz,"$793,000",May 2,-,2025-09-07
+1349,j-hope Tour 'Hope on the Stage' in Japan: Live Viewing,"$789,173",May 30,Trafalgar Releasing,2025-09-07
+1350,In the Mood for Love25th Anniversary,"$771,681",Jun 27,Janus Films,2025-09-07
+1351,40 Acres,"$768,905",Jul 2,Magnolia Pictures,2025-09-07
+1352,The Shrouds,"$755,935",Apr 18,Sideshow Releasing,2025-09-07
+1353,Cheech & Chong's Last Movie,"$750,396",Apr 25,-,2025-09-07
+1354,The American Miracle,"$725,556",Jun 9,Fathom Events,2025-09-07
+1355,Sing Sing2025 Re-release,"$707,265",Jan 17,-,2025-09-07
+1356,Sacramento,"$706,033",Apr 11,Vertical Entertainment,2025-09-07
+1357,Light of the World,"$700,000",Sep 5,-,2025-09-07
+1358,Legends of the Condor Heroes: The Gallants,"$671,343",Feb 21,Sony Pictures Releasing,2025-09-07
+1359,Queen of the Ring,"$657,661",Mar 7,Sumerian Films,2025-09-07
+1360,Don't Let's Go to the Dogs Tonight,"$627,923",Jul 11,Sony Pictures Releasing,2025-09-07
+1361,East of Wall,"$601,118",Aug 15,Sony Pictures Classics,2025-09-07
+1362,The Colors Within,"$557,116",Jan 23,GKIDS,2025-09-07
+1363,Autumn and the Black Jaguar,"$546,879",Jan 17,Blue Fox Entertainment,2025-09-07
+1364,Bob Trevino Likes It,"$534,372",Mar 21,Roadside Attractions,2025-09-07
+1365,The Encampments,"$533,364",Mar 28,Watermelon Pictures,2025-09-07
+1366,The Ritual,"$527,118",Jun 6,XYZ Films,2025-09-07
+1367,Eephus,"$525,877",Mar 7,Music Box Films,2025-09-07
+1368,Kaiju No. 8: Mission Recon,"$503,786",Apr 13,Crunchyroll,2025-09-07
+1369,My Love Will Make You Disappear,"$500,000",Mar 28,Abramorama,2025-09-07
+1370,The Last Class,"$499,730",Jun 27,Abramorama,2025-09-07
+1371,Raising the Bar: The Alma Richards Story,"$481,617",Apr 25,-,2025-09-07
+1372,UFC 319: du Plessis vs. Chimaev in COSM Shared Reality,"$478,675",Aug 16,Iconic Events Releasing,2025-09-07
+1373,Parasite2025 Re-release,"$478,148",Feb 7,IMAX,2025-09-07
+1374,Juliet & Romeo,"$456,623",May 9,Briarcliff Entertainment,2025-09-07
+1375,House on Eden,"$455,830",Jul 25,IFC Films,2025-09-07
+1376,The Rule of Jenny Pen,"$433,817",Mar 7,IFC Films,2025-09-07
+1377,The Luckiest Man in America,"$433,617",Apr 4,IFC Films,2025-09-07
+1378,Peppa Meets the Baby Cinema Experience,"$419,817",May 30,Trafalgar Releasing,2025-09-07
+1379,Splitsville,"$416,089",Aug 22,Neon,2025-09-07
+1380,The Prosecutor,"$407,965",Jan 10,Well Go USA Entertainment,2025-09-07
+1381,One to One: John & Yoko,"$394,239",Apr 11,Magnolia Pictures,2025-09-07
+1382,Strange Harvest,"$391,173",Aug 8,Roadside Attractions,2025-09-07
+1383,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train2025 Re-release,"$383,542",May 14,Sony Pictures Releasing,2025-09-07
+1384,Trust,"$368,186",Aug 22,Republic Pictures,2025-09-07
+1385,Pavements,"$351,421",May 2,Utopia,2025-09-07
+1386,Love Me,"$350,841",Jan 31,Bleecker Street Media,2025-09-07
+1387,Cloud,"$347,826",Jul 18,Sideshow Releasing,2025-09-07
+1388,Nothing But a Winner,"$336,366",Jul 31,Fathom Events,2025-09-07
+1389,Bring Them Down,"$336,339",Feb 7,MUBI,2025-09-07
+1390,UFC Countdown: UFC 311 Countdown: Makhachev vs. Tsarukyan 2,"$334,988",Jan 17,Iconic Events Releasing,2025-09-07
+1391,A Sloth Story,"$325,449",Feb 28,Blue Fox Entertainment,2025-09-07
+1392,Hell House LLC: Lineage,"$310,031",Aug 20,Iconic Events Releasing,2025-09-07
+1393,The Ugly Stepsister,"$308,555",Apr 18,IFC Films,2025-09-07
+1394,The Blind: A Special Tribute to Phil Robertson,"$297,165",Aug 31,-,2025-09-07
+1395,Caught by the Tides,"$291,307",May 9,Janus Films,2025-09-07
+1396,Parthenope,"$289,303",Feb 7,A24,2025-09-07
+1397,The Assessment,"$279,328",Mar 21,Magnolia Pictures,2025-09-07
+1398,Witchboard,"$269,300",Aug 15,Atlas Distribution Company,2025-09-07
+1399,UFC 316: Dvalishvili vs. O'Malley 2 in COSM Shared Reality,"$265,986",Jun 7,Iconic Events Releasing,2025-09-07
+1400,I Don't Understand You,"$265,837",Jun 6,Vertical Entertainment,2025-09-07

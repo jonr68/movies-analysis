@@ -2,76 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import sqlite3
-from datetime import datetime
+import time
+import datetime
+import json
 
 
-# def get_movie_rankings():
-#     """
-#     Scrapes the Rotten Tomatoes website for a list of new movies and their Tomatometer scores.
-#
-#     Returns:
-#         A list of tuples, where each tuple contains (movie_title, tomatometer_score).
-#     """
-#     url = "https://editorial.rottentomatoes.com/guide/best-new-movies/"
-#     headers = {
-#         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-#
-#     try:
-#         response = requests.get(url, headers=headers)
-#         response.raise_for_status()  # This will raise an exception for HTTP errors
-#
-#         soup = BeautifulSoup(response.content, 'html.parser')
-#         # print(soup)
-#
-#         movies = []
-#         # The movies are listed in div elements with the class 'row countdown-item'
-#         movie_containers = soup.find_all('div', class_='row countdown-item')
-#
-#         for container in movie_containers:
-#             # Extract the movie title
-#             title_tag = container.select('div.col-sm-20.col-full-xs > div > h2 > a')
-#             title = title_tag[0].text.strip()
-#
-#             # Extract the Tomatometer score
-#             score_tag = container.find('div', class_='countdown-item-content').find('span', class_='tMeterScore')
-#             score = score_tag.text.strip() if score_tag else None
-#
-#             if title and score:
-#                 movies.append((title, score))
-#         print(movies)
-#         return movies
-#
-#     except requests.exceptions.RequestException as e:
-#         print(f"Error fetching the URL: {e}")
-#         return None
 
-
-# def save_rankings_to_sqlite(data, db_file="movies.sql"):
-#     if not data:
-#         print("No data to save. The list of rankings is empty.")
-#         return
-#
-#     pulled_at = datetime.now().date().isoformat()
-#     data_with_time = [(title, score, pulled_at) for (title, score) in data]
-#
-#     conn = sqlite3.connect(db_file)
-#     cursor = conn.cursor()
-#     cursor.execute('''
-#                    CREATE TABLE IF NOT EXISTS rankings
-#                    (
-#                        id                INTEGER PRIMARY KEY AUTOINCREMENT,
-#                        title             TEXT,
-#                        tomatometer_score TEXT,
-#                        pulled_at         TEXT
-#                    )
-#                    ''')
-#     cursor.executemany('''
-#                        INSERT INTO rankings (title, tomatometer_score, pulled_at)
-#                        VALUES (?, ?, ?)
-#                        ''', data_with_time)
-#     conn.commit()
-#     conn.close()
-#     print(f"Successfully saved {len(data)} rankings to {db_file}")
 
 
 def get_movie_box_office():
@@ -122,7 +58,7 @@ def save_box_office_to_sqlite(data, db_file="movies.sql"):
         print("No data to save. The list of box office movies is empty.")
         return
 
-    pulled_at = datetime.now().date().isoformat()
+    pulled_at = datetime.datetime.now().date().isoformat()
     data_with_time = [(title, gross, release_date, distributor, pulled_at) for (title, gross, release_date, distributor)
                       in data]
 
@@ -148,10 +84,6 @@ def save_box_office_to_sqlite(data, db_file="movies.sql"):
     print(f"Successfully saved {len(data)} box office movies to {db_file}")
 
 
-import sqlite3
-import csv
-
-
 def export_table_to_csv(table_name, csv_filename, db_file="movies.sql"):
     conn = sqlite3.connect(db_file)
     cursor = conn.cursor()
@@ -168,15 +100,94 @@ def export_table_to_csv(table_name, csv_filename, db_file="movies.sql"):
     print(f"Exported {len(rows)} rows from {table_name} to {csv_filename}")
 
 
-if __name__ == "__main__":
-    rankings = get_movie_rankings()
-    if rankings:
-        save_rankings_to_sqlite(rankings)
-        export_table_to_csv('rankings', 'rankings.csv')
 
+
+
+def fetch_tomatometer_score(title):
+    """Search Rotten Tomatoes for the movie title and return the Tomatometer score."""
+    print(f"Searching for: {title}")
+    search_url = f"https://www.rottentomatoes.com/search?search={requests.utils.quote(title)}"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    try:
+        print("Fetching search results page...")
+        resp = requests.get(search_url, headers=headers)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        print("Parsing search results...")
+        movie_link = soup.select_one('search-page-media-row a')
+        if not movie_link:
+            print("No movie link found.")
+            return None
+        movie_href = movie_link['href']
+        if movie_href.startswith('http'):
+            movie_url = movie_href
+        else:
+            movie_url = "https://www.rottentomatoes.com" + movie_href
+        print(f"Fetching movie page: {movie_url}")
+        movie_resp = requests.get(movie_url, headers=headers)
+        movie_resp.raise_for_status()
+        movie_soup = BeautifulSoup(movie_resp.content, 'html.parser')
+        score_script = movie_soup.find('script', {'id': 'media-scorecard-json', 'type': 'application/json'})
+        if score_script:
+            data = json.loads(score_script.string)
+            score = data.get('criticsScore', {}).get('scorePercent')
+            if score:
+                print(f"Found score: {score}")
+                return score
+        print("No score found on movie page.")
+        return None
+    except Exception as e:
+        print(f"Error fetching score for '{title}': {e}")
+        return None
+
+def update_rankings_from_box_office(db_file="movies.sql"):
+    """Fetches movie titles from box_office, gets Tomatometer scores, and saves only today's results to rankings."""
+    today = datetime.date.today().isoformat()
+    conn = sqlite3.connect(db_file)
+    cursor = conn.cursor()
+    cursor.execute("SELECT title FROM box_office")
+    titles = [row[0] for row in cursor.fetchall()]
+    print(len(titles), "titles found in box_office table.")
+    conn.close()
+
+    results = []
+    for title in titles:
+        score = fetch_tomatometer_score(title)
+        if score:
+            results.append((title, score, today))
+        time.sleep(1)  # Be polite to Rotten Tomatoes
+
+    # Only save records for today
+    if results:
+        conn = sqlite3.connect(db_file)
+        cursor = conn.cursor()
+        cursor.execute('''
+                       CREATE TABLE IF NOT EXISTS rankings
+                       (
+                           id                INTEGER PRIMARY KEY AUTOINCREMENT,
+                           title             TEXT,
+                           tomatometer_score TEXT,
+                           pulled_at         TEXT
+                       )
+                       ''')
+        # Delete any previous records for today to avoid duplicates
+        cursor.execute('DELETE FROM rankings WHERE pulled_at = ?', (today,))
+        cursor.executemany('''
+            INSERT INTO rankings (title, tomatometer_score, pulled_at)
+            VALUES (?, ?, ?)
+        ''', results)
+        conn.commit()
+        conn.close()
+        print(f"Saved {len(results)} scores to rankings table for {today}.")
+    else:
+        print("No scores found for today.")
+
+if __name__ == "__main__":
     box_office = get_movie_box_office()
     if box_office:
         save_box_office_to_sqlite(box_office)
         export_table_to_csv('box_office', 'box_office.csv')
-
-    # save_movies_to_csv(movie_list)
+        update_rankings_from_box_office()
+        export_table_to_csv('rankings', 'rankings.csv')
